@@ -91,7 +91,10 @@ async function openFile(path) {
     const md = await fetchText(path);
     const html = DOMPurify.sanitize(marked.parse(md, { mangle:false, headerIds:true }));
     contentEl.innerHTML = html;
-    definitions = parseDefinitions(md) || extractDefinitionsFromRendered(contentEl);
+    definitions = parseDefinitions(md);
+    if (!Object.keys(definitions).length) {
+      definitions = extractDefinitionsFromRendered(contentEl);
+    }
     const n = Object.keys(definitions).length;
     defsCountEl.textContent = n ? `${n} definitions found` : "no definitions found";
     rehighlight();
