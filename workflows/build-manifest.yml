@@ -1,0 +1,58 @@
+name: build-manifest
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'docs/md/**.md'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: make manifest
+        run: |
+          python - <<'PY'
+          import json, re
+          from pathlib import Path
+          repo = Path('.').resolve()
+          md_dir = repo / 'docs' / 'md'
+          out = repo / 'docs' / 'manifest.json'
+          items = []
+
+          # include subfolders too
+          for p in sorted(md_dir.rglob('*.md')):
+              rel = p.relative_to(md_dir)            # e.g. sub/Note.md
+              title = p.stem
+              try:
+                  txt = p.read_text(encoding='utf-8', errors='ignore')
+                  m = re.search(r'^\s*#\s+(.+)$', txt, re.M)
+                  if m: title = m.group(1).strip()
+              except Exception:
+                  pass
+              items.append({
+                  'title': title,
+                  'path': f"md/{rel.as_posix()}"     # site-relative under /docs
+              })
+
+          out.write_text(json.dumps(items, ensure_ascii=False, indent=2), encoding='utf-8')
+          print(f"wrote {out} with {len(items)} files")
+          PY
+
+      - name: commit manifest
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add docs/manifest.json
+          git commit -m "Update manifest [skip ci]" || echo "No changes"
+          git push
