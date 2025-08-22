@@ -1,0 +1,456 @@
+
+## Guide to Section II of risk based supervision data:
+
+Designated Service Providers with respect to Jersey Private Funds
+
+Issued: 20 January 2023
+
+## Table of Contents
+
+| 1 General guidance3   | 1 General guidance3   | 1 General guidance3                     |
+|-------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+|                                                                                                             | 1.1                                                                                                         | Scope.3 |
+|                                                                                                             | 1.2                                                                                                         | Data collected .3     |
+|                                                                                                             | 1.3                                                                                                         | Excel workbook .3       |
+|                                                                                                             | 1.4                                                                                                         | Jersey Private Fund customers of the designated service provider4                                     |
+|                                                                                                             | 1.5                                                                                                         | Data reporting period4          |
+|                                                                                                             | 1.6                                                                                                         | Data submission5        |
+|                                                                                                             | 1.7                                                                                                         | Integrity checking your submission.5                  |
+|                                                                                                             | 1.8                                                                                                         | Key terms 5   |
+| 2                                                                                                           | ZC1: Fund Compliance Data 7           | ZC1: Fund Compliance Data 7                             |
+|                                                                                                             | 2.1                                                                                                         | Guidance table 7      |
+| 3                                                                                                           | ZC2: Asset Compliance Data10            | ZC2: Asset Compliance Data10                              |
+|                                                                                                             | 3.1                                                                                                         | Guidance table 10       |
+| 4                                                                                                           | ZC3: Investor Data.12     | ZC3: Investor Data.12                       |
+|                                                                                                             | 4.1                                                                                                         | Guidance table 12       |
+| 5                                                                                                           | ZC4: Beneficial Owner, Controller and Third Party Data 18                         | ZC4: Beneficial Owner, Controller and Third Party Data 18                                           |
+|                                                                                                             | 5.1                                                                                                         | Guidance table 18       |
+| 6                                                                                                           | ZC5: Concessions Data 21        | ZC5: Concessions Data 21                          |
+|                                                                                                             | 6.1                                                                                                         | General21   |
+|                                                                                                             | 6.2                                                                                                         | Guidance table 22       |
+| 7                                                                                                           | ZC6: Freetext Explanations25          | ZC6: Freetext Explanations25                            |
+|                                                                                                             | 7.1                                                                                                         | Guidance table 25       |
+
+## 1 General guidance
+
+## 1.1 Scope
+
+- 1.1.1 In 2018, the JFSC collected supervisory risk data for reporting entities for the first time. This exercise was repeated in 2019, 2020, 2021 and 2022.
+- 1.1.2 This guidance document relates to the Excel workbook in Section II of the 2022 risk based supervision data collection exercise which collects data in respect of Jersey Private Funds ( JPFs ).
+- 1.1.3 The JPF is a financial services business pursuant to Schedule 2, Part B, paragraphs 7(1)(h) and (n) of the Proceeds of Crime (Jersey) Law 1999 ( POC ) and is subject to the requirements of the Money Laundering (Jersey) Order 2008 ( MLO ).
+- 1.1.4 A JPF, being a relevant person under the MLO:
+- (a) is required to have an MLCO and an MLRO;
+- (b) should have obtained Customer Due Diligence ( CDD ) on all its investors (its customers), their beneficial owners and controllers, and on any third parties upon whose behalf the investor acts and the beneficial owners and controllers of those third parties.
+- 1.1.5 The JFSC is required to supervise the JPF's compliance with AML/CFT/CPF requirements under the Proceeds of Crime (Supervisory Bodies) (Jersey) Law 2008 ( SBL ).
+
+## 1.2 Data collected
+
+- 1.2.1 Funds remain largely excluded from the Section I data collection exercise, however, as the JFSC is required to supervise JPFs the JFSC requires data so that it can continue to risk profile the JPFs and their designated service providers.
+- 1.2.2 Consequently, data is again being requested on the customers (investors) of the JPFs. The data is being collected from the JPF's designated service provider.
+
+## 1.3 Excel workbook
+
+- 1.3.1 The Excel workbook that the designated service provider needs to complete in relation to each of the JPFs that it acts for (using one line for each JPF) comprises 11 spreadsheets, as follows:
+- (a) ZC1: Fund Compliance Data
+- (b) ZC2: Asset Compliance Data
+- (c) ZC3: Investor Data
+- (d) ZC4: Beneficial Owner, Controller and Third Party Data
+- (e) ZC5: Fund Concessions Data
+
+Country response spreadsheets for specific questions
+
+- (f) ZC3(a) Countries of Investors
+- (g) ZC3(f) Countries of PEPs
+- (h) ZC4(a) Countries of Beneficial Owners and Controllers of Investors, where the investor is not an individual
+
+- (i) ZC4(b) Countries of Third Parties on whose behalf the investor acts.
+
+## For information
+
+- (j) ZC6: Freetext Explanations
+- (k) List of Questions
+- 1.3.2 The JFSC recognises that printing each spreadsheet to determine the data requirements is not possible due to the construct of the document, therefore the last spreadsheet in the Excel workbook contains a list of the questions for printing.
+
+## 1.4 Jersey Private Fund customers of the designated service provider
+
+- 1.4.1 The JFSC is building a body of data in relation to JPFs through the designated service provider. This is the JFSC's principal JPF connection, and is a position required by the JPF Guide (as defined at 1.8).
+- 1.4.2 The JFSC expects the designated service provider providing services to the JPF to have conducted a customer risk assessment on the JPF. It is noted that the designated service provider must assume responsibility for 'ensuring compliance with all necessary Jersey AML/CFT/CPF requirements applicable to the JPF' i  and has to give a declaration to this effect. The JFSC would expect the designated service provider, as a minimum, to be able to complete sections ZC1 and ZC2.
+- 1.4.3 Where the designated service provider:
+- (a) provides the MLCO of the JPF; and/or
+- (b) is delegated the responsibility to collate CDD on the JPF's investors,
+- the JFSC would expect the designated service provider to be able to complete the whole of the JPF workbook.
+- 1.4.4 If another Jersey financial services business provides the services listed in 1.4.3 then please contact the JFSC by no later than 1 March 2023 providing alternative contact details for this financial services business. Each JPF has only been listed once in the workbook of a designated service provider therefore, unless the JFSC is told that there is another Jersey financial services business who should be providing the information requested, then the designated service provider who has the JPF named in its workbook will need to provide the information.
+- 1.4.5 If there is no other Jersey financial services business (or no alternative contact is provided by 1 March 2023) then the JFSC requests the designated service provider to liaise with each of the JPFs it acts for to provide the information in the JPF workbook. In the event that the designated service provider is not able to provide any part of the data requested in relation to the JPF then an explanation will need to be provided to the JFSC.
+- 1.4.6 The data collected through responses to ZC3 to ZC5 relates to the customers of the JPF i.e. its investors and their beneficial owners and controllers and third parties for whom the investors in the JPF act.
+
+## 1.5 Data reporting period
+
+- 1.5.1 The Section II data reporting period is 1/1/2022 to 31/12/2022.
+- 1.5.2 Generally, the data should be provided as at the end of the reporting period (31/12/2022 or closest business day) unless otherwise specified.
+
+## 1.6 Data submission
+
+- 1.6.1 Whilst the JFSC will be collecting the same data as it did in previous years, designated service providers are still recommended to consider the data request as soon as possible. It may take some time to gather the data requested and the deadline for submission is 17:00 on 5 April 2023 .
+- 1.6.2 Each designated service provider will receive an email sent to their JFSC Portal contact indicating that there are documents available for download through the JFSC portal.
+- 1.6.3 The JFSC Portal contact will be able to download the JPF Excel workbook which will be populated with the names of the JPFs that the JFSC's records show the designated service provider provides services to.
+- 1.6.4 Once the JPF Excel workbook has been downloaded it can be forwarded to the relevant persons within the designated service provider for completion. However, please note that only one consolidated completed JPF Excel workbook per designated service provider should be submitted through the JFSC Portal by the JFSC Portal contact.
+- 1.6.5 Notwithstanding who has responsibility for submitting the data, the governing body of the designated service provider and the governing body of the JPF should have oversight of the content of the submission made on their behalf.
+- 1.6.6 With the exception of spreadsheet ZC6- Freetext Explanations , all parts of each question should be answered. Consequently, where there is a nil return, insert a '0' where relevant, in each row.
+- 1.6.7 Where responses to any questions require further explanation please provide this on the spreadsheet ZC6- Freetext Explanations .
+- 1.6.8 No answers are expected for JPFs that are in liquidation, liquidated, terminating or terminated or where the designated service provider has ceased to act (subject to 1.4.4 and 1.4.5 above). Please use ZC6: Freetext Explanations - identifying the JPF and providing an explanation of why no answers are being provided i.e. terminated/liquidated/ceased to act.
+
+## 1.7 Integrity checking your submission
+
+- 1.7.1 For each JPF, the following should add to the same total number, as the questions analyse the total number of investors:
+- (a) Type of investors: sum of ZC3(b)(i) to (iii)
+- (b) By risk category: sum of ZC3(c)(i)(i) to (iii)
+
+## 1.8 Key terms
+
+| CDD   | Customer due Diligence                   |
+|-------|------------------------------------------|
+| COBO  | Control of Borrowing (Jersey) Order 1958 |
+| JPF /Jersey Private  Fund   | A Jersey Private Fund is a private investment fund with no more  than 50 eligible investors involving the pooling of capital raised for  the fund and which operates on the principle of risk spreading. A JPF  is more fully defined, authorised and operated in accordance with  the JPF Guide and has been issued with a relevant consent under  COBO   |
+| JPF Guide                   | Jersey Private Fund Guide  published by the JFSC on 11 April 2017  and last updated on 15 July 2022                                                                                                                                                                                                                                                        |
+| MLO/Money  Laundering Order | Money Laundering (Jersey) Order 2008                                                                                                                                                                                                                                                                                                                       |
+| MLCO                        | Money Laundering Compliance Officer                                                                                                                                                                                                                                                                                                                        |
+| MLRO                        | Money Laundering Reporting Officer                                                                                                                                                                                                                                                                                                                         |
+| POC                         | Proceeds of Crime (Jersey) Law 1999                                                                                                                                                                                                                                                                                                                        |
+| SBL                         | Proceeds of Crime (Supervisory Bodies) (Jersey) Law 2008                                                                                                                                                                                                                                                                                                   |
+
+## 2 ZC1: Fund Compliance Data
+
+## 2.1 Guidance table
+
+| Question  Number                 | Guidance on Question                                                                                                                                                                                                                                                                                                                                                                                                           |
+|----------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Section ZC1-Fund Compliance Data | Section ZC1-Fund Compliance Data                                                                                                                                                                                                                                                                                                                                                                                               |
+| ZC1(a)                           | Name of JPF: Auto-populated with the name under which each of the JPFs appears on the  JFSC Systems - lists each JPF that the designated service provider provides  services to. Please answer using the relevant line for each named JPF.                                                                                                                                                                                     |
+| ZC1(b)                           | Principal Jurisdiction of Promoter / Instigator of the JPF: Select one country from dropdown provided  This question is seeking the principal jurisdiction of the entity that is the driving  force behind the JPF. This might be the Investment Manager, Distributor or one  key individual etc. Factors that may indicate an entity is the Promoter/Instigator  may include: a) The name of the JPF is linked to the entity. |
+| ZC1(c)                           | Is the Promoter/Instigator of the JPF regulated/ supervised for  AML/CFT/CPF purposes?                                                                                                                                                                                                                                                                                                                                         |
+| Question  Number                 | Guidance on Question                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| Section ZC1-Fund Compliance Data | Section ZC1-Fund Compliance Data                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+|                                  | Select yes or no from dropdown provided  Indicate whether the Promoter/Instigator of the JPF is regulated and supervised  for AML/CFT/CPF purposes in Jersey or elsewhere. Regulated and supervised for AML/CFT/CPF purposes means:  a) subject to AML/CFT/CPF requirements; and  b) supervised for compliance with those requirements by the JFSC or  an overseas regulatory authority discharging a similar function in  respect of AML/CFT/CPF. For example: is the Promoter/Instigator of the fund a 'relevant person'  regulated for AML/CFT/CPF under the MLO, such as a regulated investment |
+| ZC1(d)                           | Does the JPF accept cash (coins and notes)? Select yes or no from the drop down This question is intended to determine the extent to which physical cash is still  used in the funds sector. This does not include bank transfers, cheques or any  form of virtual currency transactions. Whilst we recognise that the use of cash is minimal in the Jersey-based funds  sector, it is important that this assumption is validated as cash transactions  are a key risk indicator for money laundering and the financing of terrorism.                                                              |
+| ZC1(e)(i)                        | Name of the JPF's current MLRO: Provide the name of the JPF's current MLRO. A JPF is required under the MLO  to have an MLRO. The JFSC does not hold in its records the name of the JPF's  MLRO.                                                                                                                                                                                                                                                                                                                                                                                                    |
+| ZC1(e)(ii)                       | Email address of the JPF's current MLRO: Provide the email address of the JPF's current MLRO                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| ZC1(f)(i)                        | Name of the JPF's current MLCO: Provide the name of the JPF's current MLCO. A JPF is required under the MLO  to have an MLCO. The JFSC does not hold in its records the name of the JPF's  MLCO.                                                                                                                                                                                                                                                                                                                                                                                                    |
+| ZC1(f)(ii)                       | Email address of the JPF's current MLCO: Provide the email address of the JPF's current MLCO.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+
+Question Number
+
+Guidance on Question
+
+Section ZC1-Fund Compliance Data
+
+Guide to Section II of risk based supervision data: Jersey Private Funds
+
+## 3 ZC2: Asset Compliance Data
+
+## 3.1 Guidance table
+
+| Question  Number                  | Guidance on Question                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+|-----------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Section ZC2-Asset Compliance Data | Section ZC2-Asset Compliance Data                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| ZC1(a)                            | Name of JPF: Auto-populated with the name under which each of the JPFs appears on the  JFSC Systems - lists each JPF that the designated service provider provides  services to. Please answer using the relevant line for each named JPF.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| ZC2(a)                            | If the Investment Policy Code is E10, S06 or S07, please explain, in 5  words or less, the investment policy / asset class of the JPF. The list of  Codes are the same as those required in the 'JPF application form'.  These 3 codes are non-specific therefore please provide a brief 5 word  description of what the JPF invests in. e.g. Art, Fintech etc.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| ZC2(b)                            | Net Asset Value of the JPF in GBP at year end (31 December 2022): Please provide the Net Asset Value of the JPF as at 31 December 2022 in  sterling.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| ZC2(c)                            | Please indicate in which countries the JPF holds assets amounting to  10% or more of its Net Asset Value as at year end (31 December  2022). Select up to 10 countries from the drop down menu .  Use the drop down menu to select up to 10 countries where 10% or more of  the JPF's assets are held. If the JPF has many investments in different  jurisdictions then it may not have as much as 10% in any one jurisdiction, so  will have to leave this question blank. Some JPFs may only provide  information on 2 or 3 countries because their holdings in other countries are  less than 10%. If a JPF has a holding of more than 10% e.g. 50% don't put the  same country five times, just put it once.  This a simple measure, based on analysis, please choose the most appropriate  jurisdiction for each of the assets held. For example, this may be as simple as  looking at the jurisdiction of the issuer of securities held. However, if there is  no specific jurisdiction that can be associated with the asset then do not |
+
+## Question Number
+
+## Guidance on Question
+
+## Section ZC2-Asset Compliance Data
+
+If a JPF holds an asset through an investment holding company in Luxembourg such as a mine in an African country, do not put the jurisdiction of the holding company, put the country where the asset is - in this case the African country.
+
+## 4 ZC3: Investor Data
+
+## 4.1 Guidance table
+
+| Question  Number          | Guidance on Question                                                                                                                                                                                                                                                                                                                                                 | Guidance on Question                                                                                                                                                                                                                                                                                                                                                 |
+|---------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Section ZC3-Investor Data | Section ZC3-Investor Data                                                                                                                                                                                                                                                                                                                                            | Section ZC3-Investor Data                                                                                                                                                                                                                                                                                                                                            |
+| ZC1(a)                    | Name of JPF: Auto-populated with the name under which each of the JPFs appears on the  JFSC Systems - lists each JPF that the designated service provider provides  services to. Please answer using the relevant line for each named JPF.                                                                                                                           | Name of JPF: Auto-populated with the name under which each of the JPFs appears on the  JFSC Systems - lists each JPF that the designated service provider provides  services to. Please answer using the relevant line for each named JPF.                                                                                                                           |
+| ZC3(a)                    | Total number of investors and their principal country of residence, as  at the end of the reporting period. Answer this question on Country Tab ZC3(a) Each of the JPFs are listed vertically in column A and there is a choice of  countries listed horizontally. Input the number of investors in each country per  JPF. If there are none leave the entry as '0'. | Total number of investors and their principal country of residence, as  at the end of the reporting period. Answer this question on Country Tab ZC3(a) Each of the JPFs are listed vertically in column A and there is a choice of  countries listed horizontally. Input the number of investors in each country per  JPF. If there are none leave the entry as '0'. |
+|                           | Type of Investor                                                                                                                                                                                                                                                                                                                                                     | Guide on Country                                                                                                                                                                                                                                                                                                                                                     |
+|                           | Individual                                                                                                                                                                                                                                                                                                                                                           | Country of principal residence                                                                                                                                                                                                                                                                                                                                       |
+|                           | Company                                                                                                                                                                                                                                                                                                                                                              | Country of incorporation                                                                                                                                                                                                                                                                                                                                             |
+|                           | Limited Partnership                                                                                                                                                                                                                                                                                                                                                  | Country of registration/establishment                                                                                                                                                                                                                                                                                                                                |
+|                           | Foundation                                                                                                                                                                                                                                                                                                                                                           | Country of incorporation                                                                                                                                                                                                                                                                                                                                             |
+|                           | Trust                                                                                                                                                                                                                                                                                                                                                                | Country of incorporation of Trustee                                                                                                                                                                                                                                                                                                                                  |
+| ZC3(b)                    | Number of type of investors:  (i) Individual; (ii) Legal Person; (iii) Legal Arrangement.  Insert the number of each of these types of investors.  A legal person will be a company, incorporated limited partnership,  incorporated cells etc.                                                                                                                      | Number of type of investors:  (i) Individual; (ii) Legal Person; (iii) Legal Arrangement.  Insert the number of each of these types of investors.  A legal person will be a company, incorporated limited partnership,  incorporated cells etc.                                                                                                                      |
+| Question  Number          | Guidance on Question                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+|---------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Section ZC3-Investor Data | Section ZC3-Investor Data                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| ZC3(c)(i)                 | Number of investors in each category of risk (as defined by the JPF) as  at the end of the reporting period:  (i) Lower; (ii) Standard; (iii) Higher.  Question  ZC3(c)(i)  requests data about the number of investors that have been  assessed as presenting a higher, standard or lower ML/TF risk (on the basis of  factors set out in sections 3.3.4 and 14.2.3 of the AML/CFT/CPF Handbook).  Where use is made of a more precise risk scoring scale, it will be necessary to  determine which categories in that scale approximate to higher iii , standard or  lower risk. For example, if a JPF measures risk on a score of 1 to 10, it may  consider anything between 1 and 3 to present a lower risk, 4 to 7 to present a  standard risk, and 8 to 10 to present a higher risk.  If a JPF includes other factors in its customer risk rating of its investors e.g.  commercial risk, and the ML/TF risk element cannot be reported separately,  please report the combined risk rating. |
+| ZC3(c)(ii)                | Do the JPFs risk ratings of its investors include factors other than  money laundering and the financing of terrorism? Select yes or no from dropdown provided  Please indicate whether the risk rating is only related to money laundering and  the financing of terrorism. The JPF may take into consideration other factors  such as investor eligibility risk. Yes- other factors No -if only AML/CFT/CPF factors                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| ZC3(d)                    | Number of investors regulated or supervised for AML/CFT/CPF. Indicate how many investors in the JPF are regulated or supervised for  AML/CFT/CPF purposes in Jersey or elsewhere. Regulated or supervised for AML/CFT/CPF purposes means:  a) subject to AML/CFT/CPF requirements; and  b) supervised for compliance with those requirements by the JFSC or an  overseas regulatory authority discharging a similar function in  respect of AML/CFT/CPF. For example, an individual living and working in Jersey is unlikely to be  regulated for AML/CFT/CPF unless they are a relevant person such as a  lawyer/accountant (financial services business as described in Schedule 2, Part  B of the POC) or a Class G director (holder of a Trust Company Business class of  financial service business issued under the Financial Services (Jersey) Law  1998).                                                                                                                                  |
+
+## Question Number
+
+## Guidance on Question
+
+## Section ZC3-Investor Data
+
+## ZC3(e)
+
+Number of investors and their beneficial owners and controllers where enhanced CDD measures have been applied.
+
+The question is designed to get a general feel for the extent to which enhanced CDD is obtained in relation to investors.
+
+This question requires the total number of investors and their beneficial owners and controllers who have had enhanced due diligence applied to them during 2022, either for any of the specific reasons listed in Section 7 of the AML/CFT/CPF Handbook or as a result of the application of an entity CDD policy.
+
+In addition to a JPF deciding that an investor presents a higher risk of money laundering or financing terrorism, there are some circumstances, set out in Articles 15 and 15A of the Money Laundering Order, where enhanced CDD measures are required. See also section 7 of the AML/CFT/CPF Handbook which details scenarios where enhanced CDD must be applied .
+
+The following scenarios are considered most relevant for a JPF:
+
+- a) the investor is, or some other prescribed person is, a politically exposed person ( PEP ) (section 7.6)
+- b) the investor has a 'relevant connection' to an 'enhanced risk state' (section 7.5)
+- c) the investor is a company with nominee shareholders or issues bearer shares (section 7.10)
+- d) the investor is a personal asset holding vehicle (section 7.9)
+- e) the investor, or one or more beneficial owners/controllers of the investor, is not physically present for identification purpose (section 7.4) or
+- f) the investor is a non-Jersey resident (section 7.7)
+
+For example every individual investor in a JPF who is not a Jersey resident individual will need to have enhanced CDD applied to them , as they will fall within section 7.7. Under Article 15(1)(a) of the MLO, if a customer has, or proposes to have, a business relationship or proposes to carry out a one-off transaction with the relevant person and the relevant person is not resident in the customer's country of residence or in the same country as the country from which, or from within which, the customer is carrying on business, a relevant person must apply enhanced customer due diligence measures on a risksensitive basis.
+
+Where the investor is not an individual but for example a company or a limited partnership, then not only the jurisdiction of the company/limited partnership will need to be considered, but so will its beneficial owners and controllers.
+
+For example: if you have a Jersey company which is controlled by its board of 3 directors, 2 are Jersey resident and 1 is UK resident, then enhanced CDD will be
+
+## Question Number Guidance on Question
+
+## Section ZC3-Investor Data
+
+applied to that 1 UK resident director, so the Jersey company/limited partnership will need to be reported as 1 investor who has had enhanced CDD applied.
+
+We understand, from our work with the NRA working group industry representatives, that some Reporting Entities have incorporated the EDD measures that are required for non-Jersey-based customers into their standard customer take-on processes. However, this question seeks information against the requirements of the MLO, therefore if there is a significant difference between the number of customers who have enhanced due diligence applied to them and the number of non- Jersey-based customers, then please be ready to explain the difference.
+
+Questions ZC3(f) to ZC3(h) request data on 3 particular reasons for enhanced CDD being applied.
+
+## ZC3(f) Total number and jurisdiction of PEPs who are, or are connected with
+
+## investors (including via beneficial owners and controllers).
+
+## Answer this question on Country Tab ZC3(f)
+
+Each of the JPFs are listed vertically in column A and there is a choice of countries listed horizontally. Input the number of PEPs in each country per JPF. If there are none leave the entry as '0'.
+
+This question requires the number of investors to which enhanced CDD measures have been applied due to a PEP connection.
+
+On 12 June 2019 the Money Laundering Order was amended (see Article 15A of the Money Laundering Order and Section 7.6.1 of the AML/CFT/CPF Handbook). From this date enhanced CDD measures became mandatory for the following:
+
+- a) a domestic politically exposed person only where a high-risk business relationship or high-risk one-off transaction is involved ( domestic PEP );
+- b) a foreign politically exposed person ( foreign PEP );
+- c) a prominent person;
+- d) individuals falling within (a), (b) or (c) that are:
+- › beneficial owners or controllers of an investor;
+- › a third party for whom the investor acts AND the third parties beneficial owners or controllers ;
+- › purporting to act on behalf of the investor.
+
+When considering whether an investor is connected with a domestic PEP or foreign PEP it must be remembered that the definition of a PEP includes close associates and immediate family members of any individual. Close associate
+
+| Question  Number          | Guidance on Question                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+|---------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Section ZC3-Investor Data | Section ZC3-Investor Data                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+|                           | and immediate family member are both defined Article 15A(3) of the Money  Laundering Order. The information to be considered when deciding if an investor is a close  associate of a domestic PEP or foreign PEP is limited to information in the  possession of the JPF or information that is publicly known (Article 15A(4) of  the Money Laundering Order). PEPs should be reported under the country (or countries) which give rise to  their PEP status. For example, in a case where an individual is entrusted with a  public function in country A and the close family member of that foreign PEP  resides in country B, both PEPs should be reported under country A. |
+| ZC3(g)                    | Number of investors that have a relevant connection to an enhanced  risk state (including via beneficial owners and controllers). Using the response to question  ZC3(e)  as a base for responding, this question  ZC3(g)  requires the number of investors (including via beneficial owners and  controllers) to which enhanced CDD measures have been applied because of a  connection to an enhanced risk state. As at 16 December 2022 the following  were listed: a) Iran; b) The Democratic People's Republic of Korea (North Korea); and c) Myanmar (Burma).                                                                                                              |
+| ZC3(h)                    | % of investors that are individuals that have not been met. Select 0-20, 21-40, 41-60, 61-80, 81-100 from the drop down An investor may be considered to have been met for the purposes of this                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| ZC3(i)                    | How are investor relationships monitored?                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+
+## Question Number
+
+## Guidance on Question
+
+## Section ZC3-Investor Data
+
+## Select from dropdown provided
+
+Trigger events
+
+Scheduled reviews
+
+Electronic screening
+
+All of the above
+
+Other
+
+Transaction monitoring may arise in an administrative context such as spot checks by compliance (scheduled or triggered by transactions) or as part of a transaction where checks are undertaken as to whether a transaction matches a profile of expected activity.
+
+Trigger events - such as payments in and distributions to the investor, change of address, change of bank account, deviation from investor profile and expected transactions etc.
+
+Scheduled review - a periodic review based on the risk rating of the investor, with higher risk investor scheduled reviews taking place more frequently than lower risk investors.
+
+Electronic screening - for PEPS, Sanctions and/or intelligence such as judgements or news alerts.
+
+Other/All of the above - Please use Other in the event that additional types of monitoring are undertaken and explain what is done in ZC6 . is done but more than one. Please
+
+Also choose Other if not All of the above explain in ZC6 what is done.
+
+In the event that investor relationships are not monitored please choose Other and explain why investor relationships are not monitored in ZC6.
+
+## 5 ZC4: Beneficial Owner, Controller and Third Party Data
+
+## 5.1 Guidance table
+
+| Question  Number                                              | Guidance on Question                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+|---------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Section ZC4-Beneficial Owner, Controller and Third Party Data | Section ZC4-Beneficial Owner, Controller and Third Party Data                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| ZC1(a)                                                        | Name of JPF: Auto-populated with the name under which each of the JPFs appears on the  JFSC Systems - lists each JPF that the designated service provider provides  services to. Please answer using the relevant line for each named JPF.                                                                                                                                                                                                                                                                         |
+| ZC4(a)                                                        | Total number and principal country of residence of individuals who  are the beneficial owner or controller of an investor that is not an  individual, as at the end of the reporting period. Answer this question on Country Tab ZC4(a) Each of the JPFs are listed vertically in column A and there is a choice of  countries listed horizontally. Input the number of beneficial owners and  controllers of each investor, by principal country of residence per JPF. If there  are none leave the entry as '0'. |
+
+Guide to Section II of risk based supervision data: Jersey Private Funds
+
+## Question Number
+
+## Guidance on Question
+
+## Section ZC4-Beneficial Owner, Controller and Third Party Data
+
+## ZC4(b)
+
+Total number and principal country of residence of third parties on whose behalf an investor is acting, as at the end of the reporting period.
+
+## Answer this question on Country Tab ZC4(b)
+
+Each of the JPFs are listed vertically in column A and there is a choice of countries listed horizontally. Input the number of third parties for whom investors are acting for by principal country of residence per JPF. If there are none leave the entry as '0'.
+
+For example, a legal arrangement cannot form a business relationship or carry out a one-off transaction itself. It is the trustee(s) of the trust or general partner(s) of the limited partnership who will enter into a business relationship or carry out the one-off transaction with a JPF on behalf of the legal arrangement and who will be considered to be the investor(s). In line with Article 3 of the Money Laundering Order, the trust or limited partnership will be considered to be the third party on whose behalf the trustee(s) or general partner(s) act(s).
+
+In these cases the JPF should have identified the persons for whom the investor is acting in line with Article 3(2) of the Money Laundering Order and the guidance provided in section 4 of the AML/CFT/CPF Handbook. For ease guidance has been provided below:
+
+- a) In a case where the third party is a legal person (e.g. a company), data should be provided on the individuals who are beneficial owner or controller of that legal person (Article 3(2)(b)(ii) of the Money Laundering Order).
+- b) In a case where a third party is a trust (other than a collective investment fund), data should be provided on:
+- › the settlor v ;
+- › the protector;
+- › beneficiaries with a vested right;
+- › other beneficiaries and persons who are the object of a power that have been identified as presenting a higher risk; and
+- › any other person who exercises ultimate effective control over the trust (Article 3(7) of the Money Laundering Order).
+- c) In a case where a third party is a limited partnership (other than a collective investment fund), data should be provided on the limited partners (Article 3(7) of the Money Laundering Order).
+
+In a case where a third party is a collective investment fund, data should be provided on any beneficial owners and controllers, i.e. individuals exercising control of the collective investment fund through ownership means, other
+
+Guide to Section II of risk based supervision data: Jersey Private Funds
+
+| Question  Number                                              | Guidance on Question                                                                                                                            |
+|---------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
+| Section ZC4-Beneficial Owner, Controller and Third Party Data | Section ZC4-Beneficial Owner, Controller and Third Party Data                                                                                   |
+|                                                               | means or through the position that they hold (section 13 of the AML/CFT/CPF  Handbook specifically addresses Funds and Fund Services Business). |
+
+## 6 ZC5: Concessions Data
+
+## 6.1 General
+
+- 6.1.1 This section collects data about the application of concessions set out in the Money Laundering Order that can be used in the circumstances prescribed in Articles 13 (client identification and verification), 16 (reliance on obliged persons), 16A (persons in the same financial group) and Part 3A (CDD exemptions).
+- 6.1.2 The following table provides guidance on the period to be covered by each question:
+
+| Question                                                                                      | Data period                                                                                   | Date(s)                                                                                       |
+|-----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
+| Global Concessions                                                                            | Global Concessions                                                                            | Global Concessions                                                                            |
+| ZC5(a)                                                                                        | During the reporting period                                                                   | 1/1/2022 - 31/12/2022                                                                         |
+| Client identification and verification (Article 13)                                           | Client identification and verification (Article 13)                                           | Client identification and verification (Article 13)                                           |
+| ZC5(b)                                                                                        | During the reporting period                                                                   | 1/1/2022 - 31/12/2022                                                                         |
+| Reliance on obliged persons (Article 16 of the MLO)                                           | Reliance on obliged persons (Article 16 of the MLO)                                           | Reliance on obliged persons (Article 16 of the MLO)                                           |
+| ZC5(c)(i)                                                                                     | At end of reporting period                                                                    | 31/12/2022 or closest business day                                                            |
+| ZC5(c)(ii)                                                                                    | At end of reporting period                                                                    | 31/12/2022 or closest business day                                                            |
+| Exemptions from applying third party identification requirements  (Articles 17B-D of the MLO) | Exemptions from applying third party identification requirements  (Articles 17B-D of the MLO) | Exemptions from applying third party identification requirements  (Articles 17B-D of the MLO) |
+| ZC5(c)(iii)                                                                                   | At end of reporting period                                                                    | 31/12/2022 or closest business day                                                            |
+| ZC5(c)(iv)                                                                                    | At end of reporting period                                                                    | 31/12/2022 or closest business day                                                            |
+| ZC5(c)(v)                                                                                     | At end of reporting period                                                                    | 31/12/2022 or closest business day                                                            |
+| ZC5(c)(vi)                                                                                    | At end of reporting period                                                                    | 31/12/2022 or closest business day                                                            |
+| Further exemptions from applying identification requirements  (Article 18 of the MLO)         | Further exemptions from applying identification requirements  (Article 18 of the MLO)         | Further exemptions from applying identification requirements  (Article 18 of the MLO)         |
+| ZC5(c)(v)                                                                                     | During the reporting period                                                                   | 1/1/2022 - 31/12/2022                                                                         |
+| ZC5(c)(vi)                                                                                    | During the reporting period                                                                   | 1/1/20221 - 31/12/2022                                                                        |
+| ZC5(c)(vii)                                                                                   | During the reporting period                                                                   | 1/1/2022- 31/12/2022                                                                          |
+| ZC5(c)(viii)                                                                                  | During the reporting period                                                                   | 1/1/2022- 31/12/2022                                                                          |
+| ZC5(c)(ix)                                                                                    | During the reporting period                                                                   | 1/1/2022 - 31/12/2022                                                                         |
+
+## 6.2 Guidance table
+
+| Section ZC5-Concessions Data   | Section ZC5-Concessions Data                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+|--------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ZC1(a)                         | Name of JPF: Auto-populated with the name under which each of the JPFs appears on the  JFSC Systems - lists each JPF that the designated service provider provides  services to.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| ZC5(a)                         | Total number of individuals/entities to whom concessions have been  applied who are investors or connected to investors in the JPFs  (including via beneficial owners and controllers or as third parties for  whom the investor acts) The JFSC is seeking to understand the frequency of the use of concessions.  Consequently, this question is designed to elicit the total number of  concessions applied to investors by the JPF. It is acknowledged that more than  one concession may be utilised for the same investor. The response to this question should equal the sum of ZC5(c)(i) to (ix).                                                                                                                                                                                                                                                                                                                                |
+| ZC5(b)                         | Number of investors where delayed verification in line with  Article 13(4) of the MLO was applied In accordance with Article 13(4) of the Money Laundering Order a JPF is  permitted to delay verifying the identity of an investor where (finding out the  identity of the investor must not be delayed): a) it is necessary not to interrupt the normal course of business;  b) there is little risk of money laundering or financing of terrorism  occurring as a result of obtaining evidence of identity after  establishing the relationship; and  c) evidence of identity is obtained as soon as reasonably  practicable. Question  ZC5(b)  collects data about the number of investors where delayed  verification in line with Article 13(4) of the Money Laundering Order has been  applied.  If a JPF has not delayed the verification of any investors identity during the  data reporting period, please respond with '0'. |
+
+## ZC5(c)
+
+## In relation to the answer to ZC5(c) please indicate the numbers of individuals / entities to whom each of the concessions apply
+
+| Reliance                                                          | Articles 16 and 16A   |
+|-------------------------------------------------------------------|-----------------------|
+| Exemptions from applying third party  identification requirements | Articles 17B-D        |
+| Other CDD exemptions                                              | Article 18            |
+
+This question is designed to analyse the number of types of concessions applied to investors, their beneficial owners and controllers and third parties for whom the investor acts during the CDD process.
+
+## Reliance - Articles 16 and 16A
+
+In line with Article 16 of the Money Laundering Order, reliance may be placed on an obliged person only where the six conditions, explained in section 5.1 of the AML/CFT/CPF Handbook, are met. In practice, this has the effect of:
+
+- a) limiting the number of obliged persons that can be relied upon; and
+- b) requiring the basis for placing reliance to be recorded in writing.
+
+In line with Article 16A of the Money Laundering Order, reliance may be placed on an obliged person that is part of the same financial group only where the six conditions, explained in section 5.2 of the AML/CFT/CPF Handbook, are met. The effect of this is similar to Article 16.
+
+This question is not seeking the number of entities upon which reliance is placed it is seeking the number of investors where reliance has been used in the CDD process. This might be where reliance is used in relation to the investor or any beneficial owners or controllers of the investor. For example, if reliance is used in relation to both the investor and its 4 beneficial owners and controllers, then this would count as 1 investor.
+
+## Exemptions from applying third party identification requirements MLO Articles 17B-D
+
+In line with Articles 17B-D of the Money Laundering Order, a JPF may apply CDD exemptions and not find out the identity of a third party on whose behalf a customer acts or obtain evidence of identity. The application of the exemptions is dependent upon the status of the customer and in some circumstances the JPF.
+
+The JPF may apply exemption from applying third party identification requirements in 4 circumstances if the fund has reasonable grounds for believing that its investor is:
+
+- a) regulated and supervised by the JFSC for AML/CFT/CPF purposes;
+- b) a person who carries on equivalent business (refer to Section 1.7 of the AML/CFT/CPF Handbook); or
+- c) a person who is wholly-owned by a person listed above and meets certain conditions.
+
+Jersey Private Funds
+
+The application of exemptions from third party identification measures is also always subject to one or more conditions (depending on the particular case). In practice, these provisions have the effect of:
+
+- a) limiting the number of investors to which exemptions can be applied; and
+- b) requiring the basis for applying exemptions to be recorded in writing.
+
+## The four circumstances are:
+
+- a) Article 17B(1) Customer/or parent of customer is a JFSC regulated (or equivalent business) deposit-taker, fund, insurer, investment business or fund services business
+- b) Articles 17C(1)(a) and 17C(1)(b) Customer is or carries on business in respect of an Unregulated Fund or non-public fund (or equivalent business)
+- c) Article 17C(1)(c)(i) where the relevant person is a Deposit-taker and investor is a TCB (or equivalent business)
+- d) Article 17C(1)(d) where the relevant person is a Deposit-taker and investor is a lawyer (or equivalent business)
+
+This question is seeking the number of investors where third parties who it acts for have not been identified pursuant to Articles 17B-D. For example 1 regulated bank (the investor) acts on behalf of 10 clients. The number of investors to whom this concession relates is 1 and should be reported as 1.
+
+## Further CDD exemptions - Article 18
+
+Article 18 of the Money Laundering Order sets out a number of very specific circumstances where a fund may be able to apply further CDD exemptions to its investors. See sections 7.13 - 7.16 of the AML/CFT/CPF Handbook for further guidance. Not all of these CDD exemptions have the same effect. Investors to whom CDD exemptions have been applied could include:
+
+- a) Article 18(2) - pension, superannuation, employee benefit, share option or similar scheme
+- b) Article 18(1) - insurance policies
+- c) Article 18(4) - public authorities, companies listed on an IOSCOcompliant market or regulated market
+- d) Article 18(3) - regulated businesses or equivalent
+- e) Article 18(5)- employees of regulated businesses or equivalent
+
+This question is seeking the number of investors to whom CDD exemptions have been applied pursuant to Article 18.
+
+## 7 ZC6: Freetext Explanations
+
+## 7.1 Guidance table
+
+| Question  Number                   | Guidance on Question                                                                                                                                                                                                                                                                                                                                                                     |
+|------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Section ZC6: Freetext Explanations | Section ZC6: Freetext Explanations                                                                                                                                                                                                                                                                                                                                                       |
+| ZC6                                | If any explanation of an answer to a question in  ZC1  to  ZC5  is required then  use this page.  Identify the JPF and the question number when providing the explanation.                                                                                                                                                                                                               |
+|                                    | Examples of matters which may be included here:                                                                                                                                                                                                                                                                                                                                          |
+|                                    | a) Where the JPF is in liquidation, has been liquidated, is  terminating or has terminated or where the designated service  provider has ceased to act (subject to 1.4.4 and 1.4.5 above)  responses are not required for each question, but please identify  here the JPF and an explanation as to their status  i.e. terminated/liquidated/designated service provider ceased to  act. |
+|                                    | b) Where the answer provided at ZC3(i) is  Other  and further  explanation is needed such as to why an investor relationship is  not monitored or another type of monitoring is used.                                                                                                                                                                                                    |
+
+i Section G6(iv) of the JPF Guide.
+
+ii Promoter Policy available at: https://www.jerseyfsc.org/industry/guidance-and-policy/promoter-policy/
+
+iv No individual is to be treated as a beneficial owner of a body corporate the securities of which are listed on a regulated market. For the purpose of this section (ZC4) it is assumed that a fund is most likely to deal with legal persons that are companies therefore the text has been amended accordingly.
+
+v Excluding a settlor of a trust who is deceased in line with paragraph 125 of section 4.4 of the AML/CFT/CPF Handbook.
