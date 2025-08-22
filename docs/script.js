@@ -16,13 +16,15 @@ async function init() {
   try {
     // load list of files
     manifest = await fetchJSON("manifest.json");
-    manifest.sort((a,b)=>a.title.localeCompare(b.title, undefined, {sensitivity:"base"}));
+    manifest.sort((a,b)=>a.path.localeCompare(b.path));
     renderList(manifest);
 
     // filter
     filterEl.addEventListener("input", () => {
       const q = filterEl.value.trim().toLowerCase();
-      const items = manifest.filter(m => m.title.toLowerCase().includes(q) || m.path.toLowerCase().includes(q));
+      const items = manifest.filter(m =>
+        m.path.toLowerCase().includes(q) || (m.title && m.title.toLowerCase().includes(q))
+      );
       renderList(items);
     });
 
@@ -43,7 +45,7 @@ function renderList(items) {
   for (const item of items) {
     const li = document.createElement("li");
     const btn = document.createElement("button");
-    btn.textContent = item.title || item.path.split("/").pop();
+    btn.textContent = item.path.split("/").pop();
     btn.title = item.path;
     btn.className = (current === item.path) ? "active" : "";
     btn.addEventListener("click", () => {
@@ -81,7 +83,20 @@ async function openFile(path) {
 
 function escapeHTML(s){return s.replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]))}
 async function fetchJSON(u){const r=await fetch(u,{cache:"no-store"}); if(!r.ok) throw new Error(r.status); return r.json();}
-async function fetchText(u){const r=await fetch(u,{cache:"no-store"}); if(!r.ok) throw new Error(r.status); return r.text();}
+async function fetchText(u){
+  const tries = [u];
+  if (!u.startsWith("docs/")) tries.push(`docs/${u}`);
+  let lastErr;
+  for (const t of tries) {
+    try {
+      const r = await fetch(t, {cache:"no-store"});
+      if (r.ok) return await r.text();
+    } catch (e) {
+      lastErr = e;
+    }
+  }
+  throw lastErr || new Error(`failed to fetch ${u}`);
+}
 
 /* -------- definition sources (like your example) --------
    1) reference style in raw md: [Term]: definition
