@@ -71,7 +71,20 @@ async function openFile(path) {
 }
 
 function escapeHTML(s){return s.replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]))}
-async function fetchJSON(u){const r=await fetch(u,{cache:"no-store"}); if(!r.ok) throw new Error(r.status); return r.json();}
+async function fetchJSON(u){
+  const tries = [u];
+  if (!u.startsWith("docs/")) tries.push(`docs/${u}`);
+  let lastErr;
+  for (const t of tries) {
+    try {
+      const r = await fetch(t,{cache:"no-store"});
+      if (r.ok) return await r.json();
+    } catch (e) {
+      lastErr = e;
+    }
+  }
+  throw lastErr || new Error(`failed to fetch ${u}`);
+}
 async function fetchText(u){
   const tries = [u];
   if (!u.startsWith("docs/")) tries.push(`docs/${u}`);
