@@ -16,7 +16,7 @@ init();
 async function init() {
   try {
     // load list of files
-    manifest = await fetchJSON("manifest.json");
+    manifest = await fetchFile("manifest.json", "json");
     manifest.sort((a,b)=>a.path.localeCompare(b.path));
     renderList(manifest);
 
@@ -66,7 +66,7 @@ function renderList(items) {
 async function openFile(path) {
   contentEl.innerHTML = `<p class="muted">loading <code>${escapeHTML(path)}</code> …</p>`;
   try {
-    const md = await fetchText(path);
+    const md = await fetchFile(path, "text");
     definitions = parseDefinitions(md);
     const html = DOMPurify.sanitize(marked.parse(md, { mangle:false, headerIds:true }));
     contentEl.innerHTML = html;
@@ -78,28 +78,17 @@ async function openFile(path) {
 }
 
 function escapeHTML(s){return s.replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]))}
-async function fetchJSON(u){
+async function fetchFile(u, type = "json"){
   const tries = [u];
   if (!u.startsWith("docs/")) tries.push(`docs/${u}`);
   let lastErr;
   for (const t of tries) {
     try {
       const r = await fetch(t,{cache:"no-store"});
-      if (r.ok) return await r.json();
-    } catch (e) {
-      lastErr = e;
-    }
-  }
-  throw lastErr || new Error(`failed to fetch ${u}`);
-}
-async function fetchText(u){
-  const tries = [u];
-  if (!u.startsWith("docs/")) tries.push(`docs/${u}`);
-  let lastErr;
-  for (const t of tries) {
-    try {
-      const r = await fetch(t, {cache:"no-store"});
-      if (r.ok) return await r.text();
+      if (r.ok) {
+        if (type === "text") return await r.text();
+        return await r.json();
+      }
     } catch (e) {
       lastErr = e;
     }
