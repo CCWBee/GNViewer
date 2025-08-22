@@ -36,8 +36,25 @@ jobs:
               title = p.stem
               try:
                   txt = p.read_text(encoding='utf-8', errors='ignore')
-                  m = re.search(r'^\s*#\s+(.+)$', txt, re.M)
-                  if m: title = m.group(1).strip()
+                  lines = []
+                  for line in txt.splitlines():
+                      stripped = line.strip()
+                      if not stripped:
+                          if lines:
+                              continue
+                          else:
+                              continue
+                      m = re.match(r'#{1,6}\s+(.+)', stripped)
+                      if m:
+                          lines.append(m.group(1).strip())
+                      else:
+                          break
+                  if lines:
+                      title = lines[0]
+                      for part in lines[1:]:
+                          if not title.endswith(':'):
+                              title += ':'
+                          title += ' ' + part
               except Exception:
                   pass
               items.append({
