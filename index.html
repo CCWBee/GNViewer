@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>JFSC guidance viewer</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="style.css" rel="stylesheet">
+  <!-- markdown renderer + sanitiser -->
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/dompurify@3.0.9/dist/purify.min.js"></script>
+</head>
+<body>
+  <header>
+    <div class="brand">JFSC guidance viewer</div>
+    <div class="controls">
+      <input id="filter" type="search" placeholder="Filter notes...">
+      <label class="chk">
+        <input id="toggleHighlight" type="checkbox" checked>
+        highlight definitions
+      </label>
+      <span id="defsCount" class="muted"></span>
+    </div>
+  </header>
+
+  <main>
+    <aside>
+      <ul id="fileList" class="files"></ul>
+    </aside>
+    <section id="contentWrap">
+      <article id="content" aria-live="polite"></article>
+    </section>
+  </main>
+
+  <div id="tooltip" class="definition-tooltip" role="tooltip" style="display:none;"></div>
+
+  <script src="app.js"></script>
+</body>
+</html>
