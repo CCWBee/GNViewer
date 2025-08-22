@@ -3,6 +3,7 @@
 }
 
 :root {
+  color-scheme: light;
   --bg: #ffffff;
   --panel: #f5f5f5;
   --ink: #222222;
