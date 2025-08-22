@@ -38,16 +38,19 @@ function renderList(items) {
   for (const item of items) {
     const li = document.createElement("li");
     const btn = document.createElement("button");
-    btn.textContent = item.title || item.path.split("/").pop();
-    btn.title = item.path;
-    btn.className = (current === item.path) ? "active" : "";
-    btn.addEventListener("click", () => {
-      current = item.path;
+    const path = item.path;
+    btn.textContent = item.title || path.split("/").pop();
+    btn.title = path;
+    btn.dataset.path = path;
+    btn.className = (current === path) ? "active" : "";
+    btn.addEventListener("click", e => {
+      const p = e.currentTarget.dataset.path;
+      current = p;
       [...listEl.querySelectorAll("button")].forEach(b => b.classList.remove("active"));
-      btn.classList.add("active");
-      openFile(item.path);
+      e.currentTarget.classList.add("active");
+      openFile(p);
       const url = new URL(location.href);
-      url.searchParams.set("src", item.path);
+      url.searchParams.set("src", p);
       history.replaceState(null, "", url.toString());
     });
     li.appendChild(btn);
