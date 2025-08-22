@@ -10,6 +10,26 @@ let manifest = [];
 let current = null;
 let definitions = {};
 
+// tooltip handlers for highlighted terms
+contentEl.addEventListener("mouseover", e => {
+  const t = e.target.closest(".def-term");
+  if (!t) return;
+  const term = t.dataset.term;
+  tooltip.textContent = definitions[term] || "";
+  tooltip.style.display = "block";
+});
+
+contentEl.addEventListener("mouseout", e => {
+  if (!e.target.closest(".def-term")) return;
+  tooltip.style.display = "none";
+});
+
+contentEl.addEventListener("mousemove", e => {
+  if (tooltip.style.display === "none") return;
+  tooltip.style.left = e.pageX + 12 + "px";
+  tooltip.style.top = e.pageY + 12 + "px";
+});
+
 init();
 
 async function init() {
@@ -179,4 +199,43 @@ function extractDefinitionsFromRendered(root) {
     defs[term.toLowerCase()] = def;
   });
   return defs;
+}
+
+// wrap or remove definition term highlights
+function rehighlight() {
+  tooltip.style.display = "none";
+
+  // unwrap existing highlights
+  [...contentEl.querySelectorAll("span.def-term")].forEach(span => {
+    span.replaceWith(span.textContent);
+  });
+
+  if (!toggleHighlightEl.checked) return;
+
+  const terms = Object.keys(definitions);
+  if (!terms.length) return;
+
+  const escapeRe = s => s.replace(/[-\/\\^$*+?.()|[\]{}]/g, "\\$&");
+  const pattern = terms
+    .sort((a, b) => b.length - a.length)
+    .map(escapeRe)
+    .join("|");
+  const re = new RegExp(`\\b(${pattern})\\b`, "gi");
+
+  const walk = node => {
+    if (node.nodeType === Node.TEXT_NODE) {
+      const text = node.textContent;
+      const replaced = text.replace(re, m => `<span class="def-term" data-term="${m.toLowerCase()}">${m}</span>`);
+      if (replaced !== text) {
+        const frag = document.createElement("span");
+        frag.innerHTML = replaced;
+        node.replaceWith(...frag.childNodes);
+      }
+    } else if (node.nodeType === Node.ELEMENT_NODE) {
+      if (["SCRIPT", "STYLE", "CODE", "PRE"].includes(node.tagName)) return;
+      [...node.childNodes].forEach(walk);
+    }
+  };
+
+  walk(contentEl);
 }
