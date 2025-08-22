@@ -8,7 +8,7 @@
     "path": "md/gn-advice-v-arranging.md"
   },
   {
-    "title": "Guidance Note:",
+    "title": "Guidance Note: AIFMD i  Regime: Transitional Arrangements, Exemptions and JFSC Forms",
     "path": "md/gn-aifmd-transitional-arrangements.md"
   },
   {
@@ -24,7 +24,7 @@
     "path": "md/gn-applications-under-motor-traffic-third-party-insurance-0000.md"
   },
   {
-    "title": "Guidance Note:",
+    "title": "Guidance Note: BASEL III: Liquidity Management and Reporting for Jersey Incorporated Deposit Takers",
     "path": "md/gn-basel-iii-pillar-2-appendix-c-liquidity-gn.md"
   },
   {
@@ -36,103 +36,103 @@
     "path": "md/gn-beneficial-ownership-and-control-guidance.md"
   },
   {
-    "title": "Guidance Note",
+    "title": "Guidance Note: Validation and verification of the '11.1 Liquidity - Cashflows' Sheet",
     "path": "md/gn-branches-111-liquidity-cashflows-validation.md"
   },
   {
-    "title": "Guidance Note",
+    "title": "Guidance Note: Validation and verification of the '11.2 Liquidity - Large Deposits' Sheet",
     "path": "md/gn-branches-112-liquidity-large-deposits-validation.md"
   },
   {
-    "title": "Guidance Note",
+    "title": "Guidance Note: Validation and verification of the '11.3 Whole-bank Liquidity Data' Sheet",
     "path": "md/gn-branches-113-whole-bank-liquidity-data-validation.md"
   },
   {
-    "title": "Guidance Note",
+    "title": "Guidance Note: Validation and verification of the '2.3 BS Liabilities' Sheet",
     "path": "md/gn-branches-23-bs-liabilities-validation.md"
   },
   {
-    "title": "Guidance Note",
+    "title": "Guidance Note: Validation and verification of the '2.4 Off Balance Sheet' Sheet",
     "path": "md/gn-branches-24-off-balance-sheet-validation.md"
   },
   {
-    "title": "Guidance Note",
+    "title": "Guidance Note: Validation and verification of the '2.5 Profit and Loss' Sheet",
     "path": "md/gn-branches-25-profit-and-loss-validation.md"
   },
   {
-    "title": "Guidance Note",
+    "title": "Guidance Note: Validation and verification of the '2.6 Liquidity Summary' Sheet",
     "path": "md/gn-branches-26-liquidity-summary-validation.md"
   },
   {
-    "title": "Guidance Note",
+    "title": "Guidance Note: Validation and verification of the '5.1 FX &amp; Gold' Sheet",
     "path": "md/gn-branches-51-fx-gold-validation.md"
   },
   {
-    "title": "Guidance Note",
+    "title": "Guidance Note: Validation and verification of the '5.2 Commodities' Sheet",
     "path": "md/gn-branches-52-commodities-validation.md"
   },
   {
-    "title": "Guidance Note",
+    "title": "Guidance Note: Validation and verification of the '5.5 Branch Settlement Risk' Sheet",
     "path": "md/gn-branches-55-branch-settlement-risk-validation.md"
   },
   {
-    "title": "Guidance Note",
+    "title": "Guidance Note: Validation and verification of the '5.6 OTC' Sheet",
     "path": "md/gn-branches-56-otc-validation.md"
   },
   {
-    "title": "Guidance Note",
+    "title": "Guidance Note: Validation and verification of the '8.1 Asset Quality &amp; Provisions' Sheet",
     "path": "md/gn-branches-81-asset-quality-provisions-validation.md"
   },
   {
-    "title": "Guidance Note",
+    "title": "Guidance Note: Validation and verification of the '8.2 Loan Security' Sheet",
     "path": "md/gn-branches-82-loan-security-validation.md"
   },
   {
-    "title": "Guidance Note",
+    "title": "Guidance Note: Validation and verification of the '8.3 Total Deposits' Sheet",
     "path": "md/gn-branches-83-total-deposits-validation.md"
   },
   {
-    "title": "Guidance Note",
+    "title": "Guidance Note: Validation and verification of the '8.4 Lending by Sector' Sheet",
     "path": "md/gn-branches-84-lending-by-sector-validation.md"
   },
   {
-    "title": "Guidance Note",
+    "title": "Guidance Note: Validation and verification of the '8.5 Large Exposures' Sheet",
     "path": "md/gn-branches-85-large-exposures-validation.md"
   },
   {
-    "title": "Guidance Note",
+    "title": "Guidance Note: Validation and verification of the '8.6 Exempt Large Exposures' Sheet",
     "path": "md/gn-branches-86-exempt-large-exposures-validation.md"
   },
   {
-    "title": "Guidance Note",
+    "title": "Guidance Note: Validation and verification of the '9.1 Fiduciary Activity' Sheet",
     "path": "md/gn-branches-91-fiduciary-activity-validation.md"
   },
   {
-    "title": "Guidance Note",
+    "title": "Guidance Note: Validation and verification of the '9.11 Whole-bank Prudential Data' Sheet",
     "path": "md/gn-branches-911-whole-bank-prudential-data-validation.md"
   },
   {
-    "title": "Guidance Note",
+    "title": "Guidance Note: Validation and verification of the '9.2 Parent Accounts' Sheet",
     "path": "md/gn-branches-92-parent-accounts-validation.md"
   },
   {
-    "title": "Guidance Note",
+    "title": "gn-branches-93-additional-detail-validation",
     "path": "md/gn-branches-93-additional-detail-validation.md"
   },
   {
-    "title": "Guidance Note",
+    "title": "gn-branches-94-commentary-on-movements",
     "path": "md/gn-branches-94-commentary-on-movements.md"
   },
   {
-    "title": "Guidance Note",
+    "title": "Guidance Note: Validation and verification of the '9.5 DCS Data' Sheet",
     "path": "md/gn-branches-95-dcs-data-validation.md"
   },
   {
-    "title": "Guidance Note",
+    "title": "Guidance Note: Validation and verification of the '9.9 Other Information' Sheet",
     "path": "md/gn-branches-99-other-information-validation.md"
   },
   {
-    "title": "Guidance note",
+    "title": "Guidance note: Prudential Reporting of Liquidity Data: Amended: October 2019: Glossary",
     "path": "md/gn-branches-liquidity-data-guide.md"
   },
   {
@@ -144,7 +144,7 @@
     "path": "md/gn-compliance-monitoring.md"
   },
   {
-    "title": "Distinguishing between the authorisation requirements of a Managed Trust Company and a Participating Member with an affiliation",
+    "title": "Distinguishing between the authorisation requirements of a Managed Trust Company and a Participating Member with an affiliation: 1 Introduction",
     "path": "md/gn-distinguishing-between-managed-trust-company-and-participating-member.md"
   },
   {
@@ -152,7 +152,7 @@
     "path": "md/gn-faqs-crowdfunding.md"
   },
   {
-    "title": "Guidance Note: Forward Foreign Exchange",
+    "title": "Guidance Note: Forward Foreign Exchange: Transactions",
     "path": "md/gn-forward-foreign-exchange-transactions.md"
   },
   {
@@ -164,15 +164,15 @@
     "path": "md/gn-fsb-licensing-llps.md"
   },
   {
-    "title": "Guidance Note",
+    "title": "Guidance Note: FSB Licensing of: LPs with an LLP GP",
     "path": "md/gn-fsb-licensing-lps-with-an-llp-gp.md"
   },
   {
-    "title": "This is 'Document C' - Overview",
+    "title": "gn-fsb-licensing-slps-ilps-with-an-llp-gp",
     "path": "md/gn-fsb-licensing-slps-ilps-with-an-llp-gp.md"
   },
   {
-    "title": "Licensing Policy in respect of those activities that require registration under the Financial Services (Jersey) Law 1998",
+    "title": "Licensing Policy in respect of those activities that require registration under the Financial Services (Jersey) Law 1998: Glossary of Terms",
     "path": "md/gn-fsjl-licencing-policy.md"
   },
   {
@@ -184,7 +184,7 @@
     "path": "md/gn-guide-section-i-risk-based-supervision-data-sole-traders-2020.md"
   },
   {
-    "title": "Guide to integrity checking your Section I risk based supervision data",
+    "title": "Guide to integrity checking your Section I risk based supervision data: 1 Introduction",
     "path": "md/gn-guide-to-integrity-checking-your-section-i-risk-based-supervision-data-2020.md"
   },
   {
@@ -236,7 +236,7 @@
     "path": "md/gn-impact-of-ifrs.md"
   },
   {
-    "title": "Guide to incorporating a Jersey company for local residents",
+    "title": "Guide to incorporating a Jersey company for local residents: Table of contents",
     "path": "md/gn-incorporating-jersey-company-local-residents.md"
   },
   {
@@ -256,235 +256,235 @@
     "path": "md/gn-jfsc-ico-guidance-note.md"
   },
   {
-    "title": "Guidance Note",
+    "title": "Guidance Note: Validation and verification of the '10.1 Funding Concentrations' Sheet",
     "path": "md/gn-jibs-101-funding-concentrations-validation.md"
   },
   {
-    "title": "Guidance Note",
+    "title": "Guidance Note: Validation and verification of the '10.2 HQLA Details' Sheet",
     "path": "md/gn-jibs-102-hqla-details-validation.md"
   },
   {
-    "title": "Guidance Note",
+    "title": "Guidance Note: Validation and verification of the '10.3 LCR History' Sheet",
     "path": "md/gn-jibs-103-lcr-history-validation.md"
   },
   {
-    "title": "Guidance Note",
+    "title": "Guidance Note: Validation and verification of the '10.4 LMR History' Sheet",
     "path": "md/gn-jibs-104-lmr-history-validation.md"
   },
   {
-    "title": "Guidance Note",
+    "title": "Guidance Note: Validation and verification of the '10.5 Cashflows' Sheet",
     "path": "md/gn-jibs-105-cashflows-validation.md"
   },
   {
-    "title": "Guidance Note",
+    "title": "Guidance Note: Validation and verification of the '1.1 HQLA' Sheet",
     "path": "md/gn-jibs-11-hqla-validation.md"
   },
   {
-    "title": "Guidance Note",
+    "title": "Guidance Note: Validation and verification of the '1.2 LCR-LMR' Sheet",
     "path": "md/gn-jibs-12-lcr-lmr-validation.md"
   },
   {
-    "title": "Guidance Note",
+    "title": "Guidance Note: Validation and verification of the '1.3 NSFR' Sheet",
     "path": "md/gn-jibs-13-nsfr-validation.md"
   },
   {
-    "title": "Guidance Note",
+    "title": "Guidance Note: Validation and verification of the '2.1 BS Assets' Sheet",
     "path": "md/gn-jibs-21-balance-sheet-assets-validation.md"
   },
   {
-    "title": "Guidance Note",
+    "title": "Guidance Note: Validation and verification of the '2.2 Credit Summary' Sheet",
     "path": "md/gn-jibs-22-credit-summary-validation.md"
   },
   {
-    "title": "Guidance Note",
+    "title": "Guidance Note: Validation and verification of the '2.3 BS Liabilities' Sheet",
     "path": "md/gn-jibs-23-balance-sheet-liabilities-validation.md"
   },
   {
-    "title": "Guidance Note",
+    "title": "Guidance Note: Validation and verification of the '2.4 Off Balance Sheet' Sheet",
     "path": "md/gn-jibs-24-off-balance-sheet-validation.md"
   },
   {
-    "title": "Guidance Note",
+    "title": "Guidance Note: Validation and verification of the '2.5 Profit and Loss' Sheet",
     "path": "md/gn-jibs-25-profit-and-loss-validation.md"
   },
   {
-    "title": "Guidance Note",
+    "title": "Guidance Note: Validation and verification of the '3.1 SAC BS' Sheet",
     "path": "md/gn-jibs-31-sac-balance-sheet-validation.md"
   },
   {
-    "title": "Guidance Note",
+    "title": "Guidance Note: Validation and verification of the '3.2 SAC OBS' Sheet",
     "path": "md/gn-jibs-32-sac-obs-validation.md"
   },
   {
-    "title": "Guidance Note",
+    "title": "Guidance Note: Validation and verification of the '3.3 OTC - Interest Rates' Sheet",
     "path": "md/gn-jibs-33-otc-interest-rates-validation.md"
   },
   {
-    "title": "Guidance Note",
+    "title": "Guidance Note: Validation and verification of the '3.4 OTC - FX &amp; Gold' Sheet",
     "path": "md/gn-jibs-34-otc-fx-and-gold-validation.md"
   },
   {
-    "title": "Guidance Note",
+    "title": "Guidance Note: Validation and verification of the '3.5 OTC - Equities' Sheet",
     "path": "md/gn-jibs-35-otc-equities-validation.md"
   },
   {
-    "title": "Guidance Note",
+    "title": "Guidance Note: Validation and verification of the '3.6 OTC - Precious Metals' Sheet Relevant to the JFSC's prudential reporting requirements of JIBs",
     "path": "md/gn-jibs-36-otc-precious-metals-validation.md"
   },
   {
-    "title": "Guidance Note",
+    "title": "Guidance Note: Validation and verification of the '3.7 OTC - Commodities' Sheet Relevant to the JFSC's prudential reporting requirements of JIBs",
     "path": "md/gn-jibs-37-otc-commodities-validation.md"
   },
   {
-    "title": "Guidance Note",
+    "title": "Guidance Note: Validation and verification of the '3.8 SAC Netted Exposures' Sheet",
     "path": "md/gn-jibs-38-sac-netted-exposures-validation.md"
   },
   {
-    "title": "Guidance Note",
+    "title": "Guidance Note: Validation and verification of the '3.9 SAC Summary' Sheet",
     "path": "md/gn-jibs-39-sac-summary-validation.md"
   },
   {
-    "title": "Guidance Note",
+    "title": "Guidance Note: Validation and verification of the '4.1 BIA' Sheet",
     "path": "md/gn-jibs-41-bia-validation.md"
   },
   {
-    "title": "Guidance Note",
+    "title": "Guidance Note: Validation and verification of the '4.2 SAO' Sheet",
     "path": "md/gn-jibs-42-sao-validation.md"
   },
   {
-    "title": "Guidance Note",
+    "title": "Guidance Note: Validation and verification of the '5.1 FX &amp; Gold' Sheet",
     "path": "md/gn-jibs-51-fx-gold-validation.md"
   },
   {
-    "title": "Guidance Note",
+    "title": "Guidance Note: Validation and verification of the '5.2 Commodities' Sheet",
     "path": "md/gn-jibs-52-commodities-validation.md"
   },
   {
-    "title": "Guidance Note",
+    "title": "Guidance Note: Validation and verification of the '5.3 Settlement Risk - Credit Risk' Sheet",
     "path": "md/gn-jibs-53-settlement-risk-credit-risk-validation.md"
   },
   {
-    "title": "Guidance Note",
+    "title": "Guidance Note: Validation and verification of the '5.4 Settlement Risk - Capital' Sheet",
     "path": "md/gn-jibs-54-settlement-risk-capital-risk-validation.md"
   },
   {
-    "title": "Guidance Note",
+    "title": "Guidance Note: Validation and verification of the '6.1 Capital Adequacy' Sheet",
     "path": "md/gn-jibs-61-capital-adequacy-validation.md"
   },
   {
-    "title": "Guidance Note",
+    "title": "Guidance Note: Validation and verification of the '6.2 Leverage Ratio' Sheet",
     "path": "md/gn-jibs-62-leverage-ratio-validation.md"
   },
   {
-    "title": "Guidance Note",
+    "title": "Guidance Note: Validation and verification of the '7.1 IRRBB - Summary' Sheet",
     "path": "md/gn-jibs-71-irrbb-summary-validation.md"
   },
   {
-    "title": "Guidance Note",
+    "title": "Guidance Note: Validation and verification of the '7.2 IRRBB - Accounting Currency' Sheet",
     "path": "md/gn-jibs-72-irrbb-accounting-currency-validation.md"
   },
   {
-    "title": "Guidance Note",
+    "title": "Guidance Note: Validation and verification of the '7.3 IRRBB Major - 1' Sheet",
     "path": "md/gn-jibs-73-irrbb-major-1-validation.md"
   },
   {
-    "title": "Guidance Note",
+    "title": "Guidance Note: Validation and verification of the '7.4 IRRBB - Major 2' Sheet",
     "path": "md/gn-jibs-74-irrbb-major-2-validation.md"
   },
   {
-    "title": "Guidance Note",
+    "title": "Guidance Note: Validation and verification of the '7.5 IRRBB - Major 3' Sheet",
     "path": "md/gn-jibs-75-irrbb-major-3-validation.md"
   },
   {
-    "title": "Guidance Note",
+    "title": "Guidance Note: Validation and verification of the '7.6 IRRBB - Minor' Sheet",
     "path": "md/gn-jibs-76-irrbb-minor-currency-validation.md"
   },
   {
-    "title": "Guidance Note",
+    "title": "Guidance Note: Validation and verification of the '8.1 Asset Quality &amp; Provisions' Sheet",
     "path": "md/gn-jibs-81-asset-quality-and-provisions-validation.md"
   },
   {
-    "title": "Guidance Note",
+    "title": "Guidance Note: Validation and verification of the '8.2 Loan Security' Sheet",
     "path": "md/gn-jibs-82-loan-security-validation.md"
   },
   {
-    "title": "Guidance Note",
+    "title": "Guidance Note: Validation and verification of the '8.3 Total Deposits' Sheet",
     "path": "md/gn-jibs-83-total-deposits-validation.md"
   },
   {
-    "title": "Guidance Note",
+    "title": "Guidance Note: Validation and verification of the '8.4 Lending by Sector' Sheet",
     "path": "md/gn-jibs-84-lending-by-sector-validation.md"
   },
   {
-    "title": "Guidance Note",
+    "title": "Guidance Note: Validation and verification of the '8.5 Large Exposures' Sheet",
     "path": "md/gn-jibs-85-large-exposures-validation.md"
   },
   {
-    "title": "Guidance Note",
+    "title": "Guidance Note: Validation and verification of the '8.6 Exempt Large Exposures' Sheet",
     "path": "md/gn-jibs-86-exempt-large-exposures-validation.md"
   },
   {
-    "title": "Guidance Note",
+    "title": "Guidance Note: Validation and verification of the '9.1 Fiduciary Activity' Sheet",
     "path": "md/gn-jibs-91-fiduciary-activity-validation.md"
   },
   {
-    "title": "Guidance Note",
+    "title": "Guidance Note: Validation and verification of the '9.10 Directors Interests' Sheet",
     "path": "md/gn-jibs-910-directors-interests-validation.md"
   },
   {
-    "title": "Guidance Note",
+    "title": "Guidance Note: Validation and verification of the '9.2 Parent Accounts' Sheet",
     "path": "md/gn-jibs-92-parent-accounts-validation.md"
   },
   {
-    "title": "Guidance Note",
+    "title": "gn-jibs-93-additional-detail-validation",
     "path": "md/gn-jibs-93-additional-detail-validation.md"
   },
   {
-    "title": "Guidance Note",
+    "title": "Guidance Note: Validation and verification of the '9.4 Commentary on Movements' Sheet",
     "path": "md/gn-jibs-94-commentary-on-movements-validation.md"
   },
   {
-    "title": "Guidance Note",
+    "title": "Guidance Note: Validation and verification of the '9.5 DCS Data' Sheet",
     "path": "md/gn-jibs-95-dcs-data-validation.md"
   },
   {
-    "title": "Guidance Note",
+    "title": "Guidance Note: Validation and verification of the '9.6 FIRB Detail' Sheet",
     "path": "md/gn-jibs-96-firb-detail-validation.md"
   },
   {
-    "title": "Guidance Note",
+    "title": "Guidance Note: Validation and verification of the '9.7 AIRB Detail' Sheet",
     "path": "md/gn-jibs-97-airb-detail-validation.md"
   },
   {
-    "title": "Guidance Note",
+    "title": "Guidance Note: Validation and verification of the '9.8 Local Interbank Market' Sheet",
     "path": "md/gn-jibs-98-local-interbank-market-validation.md"
   },
   {
-    "title": "Guidance Note",
+    "title": "Guidance Note: Validation and verification of the '9.9 Other Information' Sheet",
     "path": "md/gn-jibs-99-other-information-validation.md"
   },
   {
-    "title": "Guidance Note:",
+    "title": "Guidance Note: Prudential Reporting of Interest Rate Risk in the Banking Book: Glossary",
     "path": "md/gn-jibs-interest-rate-risk-in-the-banking-book-guide.md"
   },
   {
-    "title": "Guidance Note",
+    "title": "Guidance Note: Prudential Reporting of Liquidity Supporting Data",
     "path": "md/gn-jibs-liquidity-supporting-data.md"
   },
   {
-    "title": "Guidance Note",
+    "title": "Guidance Note: Prudential Reporting of Loans and Deposits Data",
     "path": "md/gn-jibs-loans-and-deposits-data-guide.md"
   },
   {
-    "title": "Guidance Note:",
+    "title": "Guidance Note: Prudential Reporting of Operational Risk",
     "path": "md/gn-jibs-operational-risk-guide-december-2018.md"
   },
   {
-    "title": "Guidance Note:",
+    "title": "Guidance Note: Prudential Reporting of Other Prudential Data",
     "path": "md/gn-jibs-other-prudential-data-guide.md"
   },
   {
-    "title": "Guidance Note",
+    "title": "Guidance Note: Prudential Reporting of Financial Data",
     "path": "md/gn-jibs-prudential-reporting-of-financial-data.md"
   },
   {
@@ -492,7 +492,7 @@
     "path": "md/gn-jibs-prudential-reporting-submission-guide.md"
   },
   {
-    "title": "Guidance Note",
+    "title": "Guidance Note: Prudential reporting of market risk under the standardised approach to market risk: Glossary",
     "path": "md/gn-jibs-standardised-approach-to-market-risk-guide-december-2018.md"
   },
   {
@@ -500,11 +500,11 @@
     "path": "md/gn-lenders-not-banks-section-ii.md"
   },
   {
-    "title": "Guidance Note Limited Liability Partnerships (Jersey) Law 1997",
+    "title": "Guidance Note Limited Liability Partnerships (Jersey) Law 1997: 1 Introduction",
     "path": "md/gn-limited-liability-partnerships-law-1997.md"
   },
   {
-    "title": "Guidance Note: Limited Partnerships (Jersey) Law 1994",
+    "title": "Guidance Note: Limited Partnerships (Jersey) Law 1994: 1 Introduction",
     "path": "md/gn-limited-partnerships-law-1994.md"
   },
   {
@@ -512,7 +512,7 @@
     "path": "md/gn-liquidity-management-and-reporting.md"
   },
   {
-    "title": "Guidance Note: Managed Trust Company",
+    "title": "Guidance Note: Managed Trust Company: Business",
     "path": "md/gn-managed-trust-company-business.md"
   },
   {
@@ -556,7 +556,7 @@
     "path": "md/gn-provision-of-investment-services-to-vps-under-cop-for-investment-business.md"
   },
   {
-    "title": "Guidance Note",
+    "title": "Guidance Note: Prudential Reporting of Financial Data",
     "path": "md/gn-prudential-reporting-financial-data.md"
   },
   {
@@ -564,11 +564,11 @@
     "path": "md/gn-prudential-reporting-loans-and-deposits-data-guide.md"
   },
   {
-    "title": "Guidance note",
+    "title": "Guidance note: Prudential Reporting of Market Risk Data: Glossary",
     "path": "md/gn-prudential-reporting-market-risk.md"
   },
   {
-    "title": "Companies (Jersey) Law 1991: Recognized",
+    "title": "Companies (Jersey) Law 1991: Recognized: Auditors",
     "path": "md/gn-recognized-auditors.md"
   },
   {
@@ -588,7 +588,7 @@
     "path": "md/gn-regulated-non-profit-making-organisations-and-private-trust-companies-section-ii.md"
   },
   {
-    "title": "Guidance Note: Remediation Action Plans",
+    "title": "Guidance Note: Remediation Action Plans: 1 Introduction",
     "path": "md/gn-remediation-action-plans.md"
   },
   {
@@ -632,7 +632,7 @@
     "path": "md/gn-risk-based-supervision-data-money-service-business-2020.md"
   },
   {
-    "title": "Guide to Section II of risk based",
+    "title": "Guide to Section II of risk based: supervision data:",
     "path": "md/gn-risk-based-supervision-data-public-funds-2020.md"
   },
   {
@@ -644,7 +644,7 @@
     "path": "md/gn-risk-based-supervision-data-wire-transfer-2020.md"
   },
   {
-    "title": "Guide to Section I of risk based supervision data: Sole Traders",
+    "title": "Guide to Section I of risk based supervision data: Sole Traders: Sole traders are natural persons carrying on specified schedule 2 business.: 1 Introduction",
     "path": "md/gn-risk-based-supervision-section-i-sole-traders.md"
   },
   {
@@ -652,7 +652,7 @@
     "path": "md/gn-section-i-global-footprint-guidance-2019.md"
   },
   {
-    "title": "Guide to integrity checking your Section I risk based supervision data",
+    "title": "Guide to integrity checking your Section I risk based supervision data: 1 Introduction",
     "path": "md/gn-section-i-global-footprint-integrity-checking-2019.md"
   },
   {
@@ -668,7 +668,7 @@
     "path": "md/gn-section-ii-fsb-2020.md"
   },
   {
-    "title": "Guide to Section II of risk based",
+    "title": "Guide to Section II of risk based: supervision data:",
     "path": "md/gn-section-ii-funds-cif-2019.md"
   },
   {
@@ -704,11 +704,11 @@
     "path": "md/guidance-note-pillar-2-in-jersey.md"
   },
   {
-    "title": "Guidance Note",
+    "title": "Guidance Note: Prudential Reporting of Capital Ratios",
     "path": "md/guidance-note-prudential-reporting-of-capital-ratios.md"
   },
   {
-    "title": "Guidance Note",
+    "title": "Guidance Note: Prudential Reporting of Liquidity Ratios",
     "path": "md/guidance-note-prudential-reporting-of-liquidity-ratios.md"
   },
   {
@@ -716,7 +716,7 @@
     "path": "md/guidance-on-interpretation-of-in-or-from-within-jersey-for-the-purposes-of-proceeds-of-crime-supervisory-bodies-jersey-law-2008.md"
   },
   {
-    "title": "Guide to integrity checking your Section I risk based supervision data",
+    "title": "Guide to integrity checking your Section I risk based supervision data: Contents",
     "path": "md/guide-to-integrity-checking-your-section-i-risk-based-supervision-data-2023.md"
   },
   {
@@ -732,7 +732,7 @@
     "path": "md/guidelines-on-interpretation-reformatted-30-sept-24.md"
   },
   {
-    "title": "Guidance note",
+    "title": "Guidance note: Prudential reporting of credit risk under the standardised approach to credit risk",
     "path": "md/prudential-reporting-of-credit-risk-under-the-standardised-approach-to-credit-risk.md"
   },
   {
@@ -748,19 +748,19 @@
     "path": "md/section-i-global-footprint-guidance-2023.md"
   },
   {
-    "title": "Guide to integrity checking your Section I risk based supervision data",
+    "title": "Guide to integrity checking your Section I risk based supervision data: 1 Introduction",
     "path": "md/section-i-global-footprint-integrity-checking-2021.md"
   },
   {
-    "title": "Guide to integrity checking your Section I risk based supervision data",
+    "title": "Guide to integrity checking your Section I risk based supervision data: 1 Introduction",
     "path": "md/section-i-global-footprint-integrity-checking-2022.md"
   },
   {
-    "title": "Guide to Section I of risk based supervision data:",
+    "title": "Guide to Section I of risk based supervision data: Sole Traders",
     "path": "md/section-i-global-footprint-sole-traders-2022.md"
   },
   {
-    "title": "Guide to Section I of risk based supervision data:",
+    "title": "Guide to Section I of risk based supervision data: Sole Traders",
     "path": "md/section-i-global-footprint-sole-traders-2023.md"
   },
   {
@@ -812,15 +812,15 @@
     "path": "md/section-ii-fsb-2023.md"
   },
   {
-    "title": "Guide to Section II of risk based",
+    "title": "Guide to Section II of risk based: supervision data:",
     "path": "md/section-ii-funds-cif-2021.md"
   },
   {
-    "title": "Guide to Section II of risk based",
+    "title": "Guide to Section II of risk based: supervision data:",
     "path": "md/section-ii-funds-cif-2022.md"
   },
   {
-    "title": "Guide to Section II of risk based",
+    "title": "Guide to Section II of risk based: supervision data:",
     "path": "md/section-ii-funds-cif-2023.md"
   },
   {
@@ -956,11 +956,11 @@
     "path": "md/section-iii-wire-transfers-2023.md"
   },
   {
-    "title": "1 Ships and other vessels",
+    "title": "1 Ships and other vessels: 1.1 Examples of risk",
     "path": "md/ships-and-other-vessels-guidance.md"
   },
   {
-    "title": "Table of contents",
+    "title": "tokenisation-of-real-world-assets-guidance-note",
     "path": "md/tokenisation-of-real-world-assets-guidance-note.md"
   },
   {
