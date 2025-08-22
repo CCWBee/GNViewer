@@ -117,7 +117,7 @@ function parseDefinitions(md) {
     defs[m[1].trim().toLowerCase()] = m[2].trim();
   }
 
-  const secRe = /^##\s+(?:\d+\s+)?(?:Definitions|Glossary)\s*$/gim;
+  const secRe = /^##\s+(?:\d+\s+)?(?:Definitions|Glossary(?:\s+of\s+Terms)?)\s*$/gim;
   let match;
   while ((match = secRe.exec(md))) {
     const start = match.index + match[0].length;
