@@ -45,7 +45,7 @@ function renderList(items) {
   for (const item of items) {
     const li = document.createElement("li");
     const btn = document.createElement("button");
-    btn.textContent = item.path.split("/").pop();
+    btn.textContent = item.title || item.path.split("/").pop();
     btn.title = item.path;
     btn.className = (current === item.path) ? "active" : "";
     btn.addEventListener("click", () => {
