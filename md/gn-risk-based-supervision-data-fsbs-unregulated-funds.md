@@ -1,0 +1,516 @@
+
+## Guide to Section II of risk based supervision data: FSBs with respect to Unregulated Funds
+
+Issued: 18 December 2020
+
+## Table of Contents
+
+| 1   | General guidance3   | General guidance3                       |
+|-----|-----------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+|     | 1.1                                                                                                       | Scope.3 |
+|     | 1.2                                                                                                       | Data collected .3     |
+|     | 1.3                                                                                                       | Excel workbook .3       |
+|     | 1.4                                                                                                       | Unregulated Fund customers of the FSB.4                       |
+|     | 1.5                                                                                                       | Data reporting period4          |
+|     | 1.6                                                                                                       | Data submission4        |
+|     | 1.7                                                                                                       | Integrity checking your submission.5                  |
+|     | 1.8                                                                                                       | Key terms 5   |
+| 2   | ZB1: Fund Compliance Data 7         | ZB1: Fund Compliance Data 7                             |
+|     | 2.1                                                                                                       | Guidance table 7      |
+| 3   | ZB2: Asset Compliance Data11          | ZB2: Asset Compliance Data11                              |
+|     | 3.1                                                                                                       | Guidance table 11       |
+|     | 4 ZB3: Investor Data 13 | 4 ZB3: Investor Data 13                     |
+|     | 4.1                                                                                                       | Guidance table 13       |
+| 5   | ZB4: Beneficial Owner, Controller and Third Party Data 19                       | ZB4: Beneficial Owner, Controller and Third Party Data 19                                           |
+|     | 5.1                                                                                                       | Guidance table 19       |
+| 6   | ZB5: Concessions Data 22      | ZB5: Concessions Data 22                          |
+|     | 6.1                                                                                                       | General22   |
+|     | 6.2                                                                                                       | Guidance table 23       |
+| 7   | ZB6: Freetext Explanations26        | ZB6: Freetext Explanations26                            |
+|     | 7.1                                                                                                       | Guidance table 26       |
+
+## 1 General guidance
+
+## 1.1 Scope
+
+- 1.1.1 In 2018 the JFSC collected supervisory risk data from reporting entities for the first time. This exercise was repeated in 2019 and 2020. As advised on 24 November 2020 i , the JFSC is collecting the same data in 2021 with respect to 2020.
+- 1.1.2 This guidance document relates to the Excel workbook Section II of the 2021 risk based supervision data collection which requires the provision of data in respect of Unregulated Funds.
+- 1.1.3 The Unregulated Fund is a Financial Services Business as specified in Schedule 2, Part B, paragraph 6 of the Proceeds of Crime (Jersey) Law 1999 ( POC ) and is subject to the requirements of the Money Laundering (Jersey) Order 2008 ( MLO ).
+- 1.1.4 Unregulated Funds are required to have an MLCO and an MLRO as relevant persons under the MLO.
+- 1.1.5 The Unregulated Fund as a relevant person should have obtained Customer Due Diligence ( CDD ) on all its investors (its customers), their beneficial owners and controllers, and on any third parties upon whose behalf the investor acts and the beneficial owners and controllers of those third parties.
+- 1.1.6 The JFSC is required to supervise the Unregulated Funds compliance with AML/CFT requirements under the Proceeds of Crime (Supervisory Bodies) (Jersey) Law 2008 ( SBL ).
+
+## 1.2 Data collected
+
+- 1.2.1 Funds are largely excluded from the Section 1 data collection exercise, however as the JFSC is required to supervise Unregulated Funds the JFSC requires data so that it can continue to risk profile the Unregulated Funds/FSBs.
+- 1.2.2 Consequently, data is again being requested on the customers (investors) of the Unregulated Funds being their investors.
+
+## 1.3 Excel workbook
+
+- 1.3.1 The Excel workbook that the Fund Services Business ( FSB ) needs to complete in relation to each of the Unregulated Funds that it acts for (using one line for each Unregulated Fund) comprises 11 spreadsheets, as follows:
+- (a) ZB1: Fund Compliance Data
+- (b) ZB2: Asset Compliance Data
+- (c) ZB3: Investor Data
+- (d) ZB4: Beneficial Owners, Controllers and Third Party Data
+- (e) ZB5: Fund Concessions Data
+
+Country response spreadsheets for specific questions
+
+- (f) ZB3(a) Countries of Investors
+- (g) ZB3 (g) Countries of PEPs
+- (h) ZB4 (a) Countries of Beneficial Owners and Controllers of Investors, where the investor is not an individual
+
+Guide to Section II of risk based supervision data: Unregulated Funds
+
+- (i) ZB4 (b) Countries of Third Parties on whose behalf the investor acts
+
+For information
+
+- (j) ZB6: Freetext Explanations
+- (k) List of Questions
+- 1.3.2 The JFSC recognises that printing each spreadsheet to determine the data requirements is not possible due to the construct of the document, therefore the last spreadsheet in the Excel workbook contains a list of the questions for printing.
+
+## 1.4 Unregulated Fund customers of the FSB
+
+- 1.4.1 Historically the JFSC has had limited data available in relation to Unregulated Funds, and its principal connection is via the address of the FSB which made the unregulated fund notification to the Registry. On the whole this FSB has provided the registered office to the Unregulated Fund.
+- 1.4.2 The JFSC expects the FSB providing services to the Unregulated Fund to have conducted a customer risk assessment on the Unregulated Fund. The JFSC would expect the FSB as a minimum to be able to complete sections ZB1 and ZB2.
+- 1.4.3 If the FSB:
+- (a) provides the MLCO of the Unregulated Fund; and/or
+- (b) is delegated the responsibility to collate CDD on the Unregulated Funds investors,
+
+the JFSC would expect the FSB to be able to complete the whole of the Unregulated Funds workbook.
+
+- 1.4.4 If there is another Jersey FSB that provides the services listed in (a) to (b) then please contact the JFSC by no later than 29 January 2021 providing alternative contact details for this FSB. Each Unregulated Fund has only been listed once in a workbook for one FSB therefore, unless the JFSC is told that there is another Jersey FSB who should be providing the information requested then the FSB who has the Unregulated Fund named in its workbook will need to provide the information.
+
+1.4.5
+
+If there is no other Jersey FSB (or no alternative contact is provided by 29 January
+
+2021) then the JFSC requests the FSB to liaise with each of the Unregulated Funds it acts for to provide the information in the Unregulated Funds workbook. In the
+
+event that the FSB is not able to provide any part of the data requested in relation to the Unregulated Fund then an explanation will need to be provided.
+
+- 1.4.6 This data collection for ZB3 to ZB5 is on the customers of the Unregulated Fund i.e. its investors and their beneficial owners and controllers and third parties for whom the investors in the Unregulated Fund act.
+
+## 1.5 Data reporting period
+
+- 1.5.1 The Section II data reporting period is 1/1/2020 to 31/12/2020.
+- 1.5.2 Generally, the data should be provided as at the end of the reporting period (31/12/2020 or closest business day) unless otherwise specified.
+
+## 1.6 Data submission
+
+- 1.6.1 Whilst the JFSC will be collecting the same data as it did in previous years, FSBs are still recommended to consider the data request as soon as possible. It may take
+
+some time to gather the data requested and the deadline for submission is 17:00 on 31 March 2021 .
+
+- 1.6.2 Each FSB will receive an email sent to their JFSC Portal contact indicating that there are documents available for download through the JFSC portal.
+- 1.6.3 The JFSC Portal contact be able to download the Unregulated Funds Excel workbook which will be populated with the names of the Unregulated Funds that the JFSC's records show the FSB provides services to.
+- 1.6.4 Every Unregulated Fund referred to in the spreadsheet has filed a Notice with Registry under the CIF Unregulated Funds Order and data is being requested from the Unregulated Fund on this basis.
+- 1.6.5 Once the Unregulated Funds Excel workbook has been downloaded it can be forwarded to the relevant persons within the FSB for completion. However, please note that only one consolidated completed Unregulated Funds Excel workbook per FSB should be submitted through the JFSC Portal by the JFSC Portal contact.
+- 1.6.6 Notwithstanding who has responsibility for submitting the data, the governing body of the FSB and the governing body of the Unregulated Fund should have oversight of the content of the submission made on their behalf.
+- 1.6.7 With the exception of spreadsheet ZB6- Freetext Explanations, all parts of each question should be answered. Consequently, where there is a nil return, insert a '0' where relevant, in each row.
+- 1.6.8 Where responses to any questions require further explanation please provide this on the spreadsheet ZB6- Freetext Explanations.
+- 1.6.9 No answers are expected for Unregulated Funds that are in liquidation, liquidated, terminating or terminated or where the FSB has ceased to act (subject to 1.4.4 and 1.4.5 above). However for the purposes of the questionnaire, please use ZB6: Freetext Explanations - identifying the Unregulated Fund and providing an explanation in relation to the relevant fund of why no answers are being provided i.e. terminated / liquidated / ceased to act.
+
+## 1.7 Integrity checking your submission
+
+- 1.7.1 For each Unregulated Fund, the following should all add to the same total number as the questions analyse the total number of investors:
+- (a) Type of investors: sum of ZB3(b)(i) to (iii)
+- (b) By risk category: sum of ZB3(c)(i)(i) to (iii)
+- (c) Split between retail and institutional/professional: ZB3(d)(i) + (ii)
+
+## 1.8 Key terms
+
+| CDD                          | Customer due Diligence                                                            |
+|------------------------------|-----------------------------------------------------------------------------------|
+| CIF Unregulated Funds  Order | Collective Investment Funds (Unregulated Funds) (Jersey)  Order 2008) as amended. |
+| FSB                          | Fund Services Business                                                            |
+| MLO/Money Laundering  Order  | Money Laundering (Jersey) Order 2008                                              |
+
+Guide to Section II of risk based supervision data: Unregulated Funds
+
+| MLCO             | Money Laundering Compliance Officer                                                                                                    |
+|------------------|----------------------------------------------------------------------------------------------------------------------------------------|
+| MLRO             | Money Laundering Reporting Officer                                                                                                     |
+| POC              | Proceeds of Crime (Jersey) Law 1999                                                                                                    |
+| SBL              | Proceeds of Crime (Supervisory Bodies) (Jersey) Law 2008                                                                               |
+| Unregulated Fund | a fund that has filed a notice in accordance with paragraph 3  of either Schedule 1 or Schedule 2 of the CIF Unregulated  Funds Order. |
+
+## 2 ZB1: Fund Compliance Data
+
+## 2.1 Guidance table
+
+| Question  Number                 | Guidance on Question                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+|----------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Section ZB1-Fund Compliance Data | Section ZB1-Fund Compliance Data                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| ZB1(a)                           | Name of Fund: Auto-poulated with name under which each of the Unregulated Funds appear  on the Registry system will be used to list each Unregulated Fund that the FSB  provides services to. Please answer using the relevant line for each named Unregulated Fund.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| ZB1(b)                           | Principal Jurisdiction of Promoter / Instigator of the Fund: Select one country from dropdown provided  This question is seeking the principal jurisdiction of the entity that is the  driving force behind the Unregulated Fund. This might be the Investment  Manager, Distributor or one key individual etc. Factors that may indicate an  entity is the Promoter / Instigator may include: 1. The name of the fund is linked to the entity. 2. If the entity had withdrawn from the initial proposal, the fund would  not have gone ahead (unlike an administrator that can be replaced). 3. The majority of investors are being put into the fund by the entity. 4. The entity is responsible for the instructions to set up the fund. 5. The fund is the 'brainchild' of the entity. 6. The entity is providing the initial directors to the funds governing  body. 7. The entity owns the management shares/otherwise has control of the  governing body of the fund. 8. The entity is financing the initial set up of the fund (which it may or  may not get back). 9. The entity has devised the investment advice, investment policy and  investment strategy of the fund. 10. The entity gets a performance fee rather than a fixed fee. The JFSC Promoter Policy ii  does not apply to Unregulated Funds but all funds  will normally have a promoter or instigator. |
+| ZB1(c)                           | Is the Promoter/Instigator of the Fund regulated/ supervised for  AML/CFT purposes? Select yes or no from dropdown provided  Indicate whether the Promoter/Instigator of the Unregulated Fund is  regulated and supervised for AML/CFT purposes in Jersey or elsewhere. Regulated and supervised for AML/CFT purposes means:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+
+Guide to Section II of risk based supervision data: Unregulated Funds
+
+| Question  Number                 | Guidance on Question                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+|----------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Section ZB1-Fund Compliance Data | Section ZB1-Fund Compliance Data                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+|                                  | a) subject to AML/CFT requirements; and  b) supervised for compliance with those requirements by the JFSC or an  overseas regulatory authority discharging a similar function in respect  of AML/CFT. For example: is the Promoter/Instigator of the Unregulated Fund a 'relevant  person' regulated for AML/CFT under the MLO, such as a regulated  investment business?                                                                                                                                                       |
+| ZB1(d)(i)                        | Is the Fund listed? Select yes or no from dropdown provided  Indicate whether the Unregulated Fund is listed on an exchange.  All Exchange Traded Funds should be listed on one of the exchanges listed in  Schedule 4 of the CIF Unregulated Funds Order.  Eligible Investor Funds may or may not be listed.                                                                                                                                                                                                                   |
+| ZB1(d)(ii)                       | If the answer to ZB(d)(i) is Yes, on what exchange(s) is the Fund  listed? Select the Exchange from the dropdown provided There is an option to pick up to four Exchanges. In the event that the  Exchange the Unregulated Fund is listed on does not appear on this list,  please provide details on the ZB6 Freetext Explanations page.                                                                                                                                                                                       |
+| ZB1(e)                           | Which type of Unregulated Fund is it? Select Exchange Traded or Eligible Investor from the dropdown provided An Unregulated Fund has to file a notice in accordance with paragraph 3 of  either Schedule 1 or Schedule 2 of the CIF Unregulated Funds Order indicating  whether it is an Exchange Traded Fund or an Eligible Investor Fund.                                                                                                                                                                                     |
+| ZB1(f)                           | If the Fund is an Eligible Investor Fund, is it open or closed ended? Select Open-ended or Closed-ended from the dropdown provided An open-ended fund is described in the glossary of the JFSC's 'OCIF guide'  annexed to the CIF Code iii  as meaning 'a collective investment fund that is  normally open for both subscriptions and redemptions at the option of the  Unitholders'. If it is not open-ended then the fund is closed ended.  All Exchange Traded Funds are closed-ended so should leave this question  blank. |
+
+18 December 2020
+
+| Question  Number                 | Guidance on Question                                                                                                                                                                                                                      | Guidance on Question                                                                                                                                                                                                                      |
+|----------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Section ZB1-Fund Compliance Data | Section ZB1-Fund Compliance Data                                                                                                                                                                                                          | Section ZB1-Fund Compliance Data                                                                                                                                                                                                          |
+| ZB1(g)                           | Select the role(s) of any other Jersey fund service providers that the  Fund has:                                                                                                                                                         | Select the role(s) of any other Jersey fund service providers that the  Fund has:                                                                                                                                                         |
+| ZB1(g)                           | Select the role of the Jersey fund service provider from the dropdown  provided The roles mirror the classes of Fund Services Business, being:                                                                                            | Select the role of the Jersey fund service provider from the dropdown  provided The roles mirror the classes of Fund Services Business, being:                                                                                            |
+| ZB1(g)                           | Manager                                                                                                                                                                                                                                   | Administrator                                                                                                                                                                                                                             |
+| ZB1(g)                           | Registrar                                                                                                                                                                                                                                 | Investment Manager                                                                                                                                                                                                                        |
+| ZB1(g)                           | Investment Adviser                                                                                                                                                                                                                        | Distributor                                                                                                                                                                                                                               |
+| ZB1(g)                           | Subscription Agent                                                                                                                                                                                                                        | Redemption Agent                                                                                                                                                                                                                          |
+| ZB1(g)                           | Premium Receiving Agent                                                                                                                                                                                                                   | Policy Proceeds Paying Agent                                                                                                                                                                                                              |
+| ZB1(g)                           | Purchase Agent                                                                                                                                                                                                                            | Repurchase Agent                                                                                                                                                                                                                          |
+| ZB1(g)                           | Trustee                                                                                                                                                                                                                                   | Custodian                                                                                                                                                                                                                                 |
+| ZB1(g)                           | Depositary                                                                                                                                                                                                                                | Member of a Partnership (except  limited partner)                                                                                                                                                                                         |
+| ZB1(g)                           | Manager of a Managed Entity                                                                                                                                                                                                               |                                                                                                                                                                                                                                           |
+| ZB1(g)                           | Up to 4 additional Jersey fund service providers can be chosen. If there are  any more than 4 please provide an explanation in Section  ZB6 .                                                                                             | Up to 4 additional Jersey fund service providers can be chosen. If there are  any more than 4 please provide an explanation in Section  ZB6 .                                                                                             |
+| ZB1(h)(i)                        | Name of the Fund's current MLRO: Provide the name of the Unregulated Fund's current MLRO.  An Unregulated Fund is required under the MLO to have an MLRO. The JFSC                                                                        | Name of the Fund's current MLRO: Provide the name of the Unregulated Fund's current MLRO.  An Unregulated Fund is required under the MLO to have an MLRO. The JFSC                                                                        |
+| ZB1(h)(ii)                       | Email address of the Fund's current MLRO: Provide the email address of the Unregulated Fund's current MLRO.                                                                                                                               | Email address of the Fund's current MLRO: Provide the email address of the Unregulated Fund's current MLRO.                                                                                                                               |
+| ZB1(i)(i)                        | Name of the Fund's current MLCO: Provide the name of the Unregulated Fund's current MLCO.  An Unregulated Fund is required under the MLO to have an MLCO. The JFSC  does not hold in its records the name of the Unregulated Fund's MLCO. | Name of the Fund's current MLCO: Provide the name of the Unregulated Fund's current MLCO.  An Unregulated Fund is required under the MLO to have an MLCO. The JFSC  does not hold in its records the name of the Unregulated Fund's MLCO. |
+
+Guide to Section II of risk based supervision data: Unregulated Funds
+
+| Question  Number                 | Guidance on Question                                                                                                                                                                                                                           |
+|----------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Section ZB1-Fund Compliance Data | Section ZB1-Fund Compliance Data                                                                                                                                                                                                               |
+| ZB1(i)(ii)                       | Email address of the Fund's current MLCO: Provide the email address of the Unregulated Fund's current MLCO.                                                                                                                                    |
+| ZB1(j)                           | Does the fund accept cash (coins and notes)? Select yes or no from the drop down This question is intended to determine the extent to which physical cash is  any form of virtual currency transactions.                                       |
+|                                  | still used in the funds sector. This does not include bank transfers, cheques or                                                                                                                                                               |
+|                                  | Whilst we recognise that the use of cash is minimal in the Jersey-based  funds sector, it is important that this assumption is validated as cash  transactions are a key risk indicator for money laundering and the financing  of terrorism . |
+
+## 3 ZB2: Asset Compliance Data
+
+## 3.1 Guidance table
+
+| Question  Number                  | Guidance on Question                                                                                                                                                                                                                                                                                                                                                                                   |
+|-----------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Section ZB2-Asset Compliance Data | Section ZB2-Asset Compliance Data                                                                                                                                                                                                                                                                                                                                                                      |
+| ZB1(a)                            | Name of Fund: Auto-populated with each Unregulated Fund name as it appears on the  Registry system - lists each Unregulated Fund that the FSB provides services  to. Please answer using the relevant line for each named Unregulated Fund.                                                                                                                                                            |
+| ZB2(a)                            | Investment policy/type of assets the Fund invests in? Select the Investment Policy Code from the dropdown provided Please use the drop down codes to select the Investment Policy Code that  most closely matches the investment policy of the Unregulated Fund. The  Codes are the same as those required in the CIF/UCF application form for a  Jersey fund.                                         |
+| ZB2(b)                            | If the Investment Policy Code is E10, S06 or S07, please explain, in 5  words or less, the investment policy / asset class of the Fund. (The list  of Codes are the same as those required in the 'CIF/UCF application  form for a Jersey fund'.)  These 3 codes are non-specific therefore please provide a brief 5 word  description of what the Unregulated Fund invests in. e.g. Art, Fintech etc. |
+| ZB2(c)                            | Net Asset Value of the Fund in GBP at year end (31 December 2020): Please provide the Net Asset Value of the Unregulated Fund as at  31 December 2020 in sterling.                                                                                                                                                                                                                                     |
+| ZB2(d)                            | Please indicate in which countries the Fund holds assets amounting to  10% or more of its Net Asset Value as at year end  (31 December 2020). Select up to 10 countries from the drop down menu .  Use the drop down menu to select up to 10 countries where 10% or more of  the Unregulated Fund's assets are held. If the fund has many investments in                                               |
+
+Guide to Section II of risk based supervision data: Unregulated Funds
+
+## Question Number
+
+## Guidance on Question
+
+## Section ZB2-Asset Compliance Data
+
+different jurisdictions then it may not have as much as 10% in any one jurisdiction, so will have to leave this question blank.
+
+Some funds may only provide information on 2 or 3 countries because their holdings in other countries are less than 10%. If a fund has a holding of more than 10% e.g. 50% don't put the same country five times, just put it once.
+
+This a simple measure, based on analysis, please choose the most appropriate jurisdiction for each of the assets held. For example, this may be as simple as looking at the jurisdiction of the issuer of securities held. However, if there is no specific jurisdiction that can be associated with the asset then do not include that asset.
+
+If an Unregulated Fund holds an asset through an investment holding company in Luxembourg such as a mine in an African country, do not put the jurisdiction of the holding company, put the country where the asset is - in this case the African country.
+
+## 4 ZB3: Investor Data
+
+## 4.1 Guidance table
+
+| Question  Number          | Guidance on Question                                                                                                                                                                                                                                                                                                                                                               | Guidance on Question                                                                                                                                                                                                                                                                                                                                                               |
+|---------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Section ZB3-Investor Data | Section ZB3-Investor Data                                                                                                                                                                                                                                                                                                                                                          | Section ZB3-Investor Data                                                                                                                                                                                                                                                                                                                                                          |
+| ZB1(a)                    | Name of Fund: Auto-populated with each Unregulated Fund name as it appears on the  Registry system - lists each Unregulated Fund that the FSB provides services  to. Please answer using the relevant line for each named Unregulated Fund.                                                                                                                                        | Name of Fund: Auto-populated with each Unregulated Fund name as it appears on the  Registry system - lists each Unregulated Fund that the FSB provides services  to. Please answer using the relevant line for each named Unregulated Fund.                                                                                                                                        |
+| ZB3(a)                    | Total number of investors and their principal country of residence, as  at the end of the reporting period. Answer this question on Country Tab ZB3(a) Each of the Unregulated Funds are listed vertically in column A and there is a  choice of countries listed horizontally. Input the number of investors in each  country per fund. If there are none leave the entry as '0'. | Total number of investors and their principal country of residence, as  at the end of the reporting period. Answer this question on Country Tab ZB3(a) Each of the Unregulated Funds are listed vertically in column A and there is a  choice of countries listed horizontally. Input the number of investors in each  country per fund. If there are none leave the entry as '0'. |
+|                           | Type of Investor                                                                                                                                                                                                                                                                                                                                                                   | Guide on Country                                                                                                                                                                                                                                                                                                                                                                   |
+|                           | Individual                                                                                                                                                                                                                                                                                                                                                                         | Country of principal residence                                                                                                                                                                                                                                                                                                                                                     |
+|                           | Company                                                                                                                                                                                                                                                                                                                                                                            | Country of incorporation                                                                                                                                                                                                                                                                                                                                                           |
+|                           | Limited Partnership                                                                                                                                                                                                                                                                                                                                                                | Country of registration/establishment                                                                                                                                                                                                                                                                                                                                              |
+|                           | Foundation                                                                                                                                                                                                                                                                                                                                                                         | Country of incorporation                                                                                                                                                                                                                                                                                                                                                           |
+|                           | Trust                                                                                                                                                                                                                                                                                                                                                                              | Country of incorporation of Trustee                                                                                                                                                                                                                                                                                                                                                |
+| ZB3(b)                    | Number of type of investors: (i) Individual; (ii) Legal Person; (iii) Legal  Arrangement.  Insert the number of each of these types of investors.  A legal person will be a company, incorporated limited partnership,  incorporated cells etc.                                                                                                                                    | Number of type of investors: (i) Individual; (ii) Legal Person; (iii) Legal  Arrangement.  Insert the number of each of these types of investors.  A legal person will be a company, incorporated limited partnership,  incorporated cells etc.                                                                                                                                    |
+| Question  Number          | Guidance on Question                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+|---------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Section ZB3-Investor Data | Section ZB3-Investor Data                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| ZB3(c)(i)                 | Number of investors in each category of risk (as defined by the Fund)  as at the end of the reporting period: (i) Lower; (ii) Standard; (iii)  Higher.  Question  ZB3(c)  requests data about the number of investors that have been  assessed as presenting a higher, standard or lower ML/TF risk (on the basis of  factors set out in sections 3.3.4 and 14.2.3 of the AML/CFT Handbook).  Where use is made of a more precise risk scoring scale, it will be necessary to  determine which categories in that scale approximate to higher iv , standard or  lower risk. For example, if an Unregulated Fund measures risk on a score of  1 to 10, it may consider anything between 1 and 3 to present a lower risk, 4 to  7 to present a standard risk, and 8 to 10 to present a higher risk.  If an Unregulated Fund includes other factors in its customer risk rating of its  investors e.g. commercial risk, and the ML/TF risk element cannot be reported  separately, please report the combined risk rating. |
+| ZB3(c)(ii)                | Do the Fund's risk ratings of its investors include factors other than  money laundering and the financing of terrorism? Select yes or no from dropdown provided  Please indicate whether the risk rating is only related to money laundering  and the financing of terrorism. The Unregulated Fund may take into  consideration other factors such as investor eligibility risk. Yes - other factors No -if only AML/CFT factors                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| ZB3(d)                    | Number of investors that are: (i) retail; (ii) institutional/professional Insert the number of each of these types of investors.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| ZB3(e)                    | Number of investors regulated and supervised for AML/CFT Indicate how many investors in the Unregulated Fund are regulated and  supervised for AML/CFT purposes in Jersey or elsewhere. Regulated and supervised for AML/CFT purposes means:  a) subject to AML/CFT requirements; and  b) supervised for compliance with those requirements by the JFSC or an  overseas regulatory authority discharging a similar function in respect  of AML/CFT. For example, an individual living and working in Jersey is unlikely to be  regulated for AML/CFT unless they are a relevant person such as: (i) a                                                                                                                                                                                                                                                                                                                                                                                                                   |
+
+18 December 2020
+
+## Question Number Guidance on Question
+
+## Section ZB3-Investor Data
+
+lawyer/accountant (a financial services business as described in Schedule 2, Part B of the POC); or (ii) a Class G director (a holder of a Trust Company Business class of financial service business issued under the Financial Services (Jersey) Law 1998).
+
+## ZB3(f)
+
+## Number of investors and their beneficial owners and controllers where enhanced CDD measures have been applied:
+
+This question is designed to get a general feel for the extent to which enhanced CDD is obtained in relation to investors.
+
+This question requires the total number of investors and their beneficial owners and controllers who have had enhanced due diligence applied to them either for any of the specific reasons listed in Section 7 of the AML/CFT Handbook or as a result of application of an entity CDD policy.
+
+In addition to an Unregulated Fund deciding that an investor presents a higher risk of money laundering or financing terrorism, there are some circumstances, set out in Articles 15 and 15A of the Money Laundering Order, where enhanced CDD measures are required. See also section 7 of the AML/CFT Handbook which details scenarios where enhanced CDD must be applied .
+
+The following scenarios are considered the most relevant for an Unregulated Fund:
+
+- a) the investor is, or some other prescribed person is, a politically exposed person (PEP) (section 7.6)
+- b) the investor has a 'relevant connection' to an 'enhanced risk state' (section 7.5)
+- c) the investor is a company with nominee shareholders or issues bearer shares (section 7.10)
+- d) the investor is a personal asset holding vehicle (section 7.9)
+- e) the investor, or one or more beneficial owners/controllers of the investor, is not physically present for identification purpose (section 7.4) or
+- f) the investor is a non Jersey resident (section 7.7)
+
+For example every individual investor in an Unregulated Fund who is not a Jersey resident individual will need to have enhanced CDD applied to them .
+
+Under Article 15(1)(a) of the MLO, if a customer has, or proposes to have, a business relationship or proposes to carry out a one-off transaction with the relevant person and the relevant person is not resident in the customer's country of residence or in the same country as the country from which, or from within which, the customer is carrying on business, a relevant person must apply enhanced customer due diligence measures on a risk-sensitive basis.
+
+Unregulated Funds
+
+## Question Number
+
+## Guidance on Question
+
+## Section ZB3-Investor Data
+
+Where the investor is not an individual but for example a company or a limited partnership, then not only the jurisdiction of the company/limited partnership will need to be considered, but so will its beneficial owners and controllers.
+
+For example: if you have a Jersey company which is controlled by its board of 3 directors, 2 are Jersey resident and 1 is UK resident, then enhanced CDD will be applied to that 1 UK resident director, so the Jersey company/limited partnership will need to be reported as 1 investor who has had enhanced CDD applied.
+
+We understand, from our work with the NRA working group industry representatives, that some Reporting Entities have incorporated the EDD measures that are required for non-Jersey-based customers into their standard customer take-on processes. However, this question seeks information against the requirements of the MLO, therefore if there is a significant difference between the number of customers who have enhanced due diligence applied to them and the number of non- Jersey-based customers, then please be ready to explain the difference.
+
+Questions ZB3(g) to ZB3(i) request data on 3 particular reasons for enhanced CDD being applied.
+
+## Total number and jurisdiction of PEPs who are, or are connected with investors (including via beneficial owners and controllers):
+
+## Answer this question on Country Tab ZB3(g)
+
+Each of the Unregulated Funds are listed vertically in column A and there is a choice of countries listed horizontally. Input the number of Politically Exposed Persons ( PEPs ) in each country per fund. If there are none leave the entry as '0'.
+
+This question requires the number of investors to which enhanced CDD measures have been applied due to a PEP connection.
+
+On 12 June 2019 the definition of Money Laundering Order was amended (see Article 15A(3) of the Money Laundering Order and Section 7.6.1 of the AML/CFT Handbook). From this date enhanced CDD measures became mandatory for the following:
+
+- a) a domestic politically exposed person only where a high-risk business relationship or high-risk one-off transaction is involved ( domestic PEP );
+- b) a foreign politically exposed person ( foreign PEP );
+- c) a prominent person;
+- d) individuals falling within (a), (b) or (c) that are:
+- › beneficial owners or controllers of an investor;
+
+## ZB3(g)
+
+## Question Number Guidance on Question
+
+## Section ZB3-Investor Data
+
+- › a third party for whom the investor acts AND the third parties beneficial owners or controllers ;
+- › purporting to act on behalf of the investor.
+
+When considering whether an investor is connected with a domestic PEP or foreign PEP it must be remembered that the definition includes close associates and immediate family members of any individual. Close associate and immediate family member are both defined in Article 15A(3) of the Money Laundering Order.
+
+The information to be considered when deciding if an investor is a close associate of a domestic PEP or foreign PEP is limited to information in the possession of the Unregulated Fund or information that is publicly known (Article 15A(4) of the Money Laundering Order).
+
+PEPs should be reported under the country (or countries) which give rise to their PEP status. For example, in a case where an individual is entrusted with a public function in country A and the close family member of that foreign PEP resides in country B, both PEPs should be reported under country A.
+
+## Number of investors that have a relevant connection to an enhanced risk state (including via beneficial owners and controllers)
+
+Using the response to question ZB3(f) as a base for responding, this question ZB3(h) requires the number of investors (including via beneficial owners and controllers) to which enhanced CDD measures have been applied because of a connection to an enhanced risk state. As at 18 December 2020 the following were listed:
+
+- a) Iran and
+- b) The Democratic People's Republic of Korea (North Korea).
+
+Section 7.5 of the AML/CFT Handbook provides further guidance, including an example of what may constitute a relevant connection.
+
+For example: an investor's source of funds is, or derives from:
+
+- a) assets held in either Iran or North Korea by the investor or any person on behalf of an investor; or
+- b) income arising in Iran or North Korea.
+
+## % of investors that are individuals that have not been met. Select 0-20, 21-40, 41-60, 61-80, 81-100 from the drop down
+
+An investor may be considered to have been met for the purposes of this question where they have been met and seen by (physically or through video conferencing facilities):
+
+## ZB3(h)
+
+## ZB3(i)
+
+Guide to Section II of risk based supervision data: Unregulated Funds
+
+| Question  Number          | Guidance on Question                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+|---------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Section ZB3-Investor Data | Section ZB3-Investor Data                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+|                           | a) any member of the board of the governing body of the Unregulated  Fund, b) by an employee or director of any one of the fund service providers  acting for the Unregulated Fund (provided it is regulated and  supervised for AML/CFT purposes),  c) by an employee or director of a company in the same group as the  Unregulated Fund, the governing body of the Unregulated Fund or the  fund service providers acting for the Unregulated Fund (provided they  are regulated and supervised for AML/CFT purposes). |
+| ZB3(j)                    | How are investor relationships monitored? Select from dropdown provided  Trigger events Scheduled reviews Electronic screening All of the above Other                                                                                                                                                                                                                                                                                                                                                                     |
+|                           | Transaction monitoring may arise in an administrative context such as spot  checks by compliance (scheduled or triggered by transactions) or as part of a  transaction where checks are undertaken as to whether a transaction  matches a profile of expected activity.                                                                                                                                                                                                                                                   |
+|                           | Trigger events  - such as payments in and distributions to the investor, change  of address, change of bank account, deviation from investor profile and  expected transactions etc.                                                                                                                                                                                                                                                                                                                                      |
+|                           | Scheduled review - a periodic review based on the risk rating of the investor,  with higher risk investor scheduled reviews taking place more frequently than  lower risk investors.                                                                                                                                                                                                                                                                                                                                      |
+|                           | Other/All of the  above - Please use  Other  in the event that additional types of  monitoring are undertaken and explain what is done in  ZB6 .  Also choose  Other  if not  All of the above  is done but more than one. Please  explain in  ZB6  what is done.  In the event that investor relationships are not monitored please choose                                                                                                                                                                               |
+|                           | Other  and explain why investor relationships are not monitored in  ZB6.                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+
+## 5 ZB4: Beneficial Owner, Controller and Third Party Data
+
+## 5.1 Guidance table
+
+| Question  Number                                              | Guidance on Question                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+|---------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Section ZB4-Beneficial Owner, Controller and Third Party Data | Section ZB4-Beneficial Owner, Controller and Third Party Data                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| ZB1(a)                                                        | Name of Fund: Auto-populated with each Unregulated Fund name as it appears on the  Registry system - lists each Unregulated Fund that the FSB provides services  to. Please answer using the relevant line for each named Unregulated Fund.                                                                                                                                                                                                                                                                                      |
+| ZB4(a)                                                        | Total number and principal country of residence of individuals who  are the beneficial owner or controller of an investor that is not an  individual, as at the end of the reporting period. Answer this question on Country Tab ZB4(a) Each of the Unregulated Funds are listed vertically in column A and there is a  choice of countries listed horizontally. Input the number of beneficial owners  and controllers of each investor, by principal country of residence per fund. If  there are none leave the entry as '0'. |
+
+## Question Number
+
+## Guidance on Question
+
+## Section ZB4-Beneficial Owner, Controller and Third Party Data
+
+## ZB4(b)
+
+Total number and principal country of residence of third parties on whose behalf an investor is acting, as at the end of the reporting period.
+
+## Answer this question on Country Tab ZB4(b)
+
+Each of the Unregulated Funds are listed vertically in column A and there is a choice of countries listed horizontally. Input the number of third parties for whom investors are acting for by principal country of residence per fund. If there are none leave the entry as '0'.
+
+For example, a legal arrangement cannot form a business relationship or carry out a one-off transaction itself. It is the trustee(s) of the trust or general partner(s) of the limited partnership who will enter into a business relationship or carry out the one-off transaction with an Unregulated Fund on behalf of the legal arrangement and who will be considered to be the investor(s). In line with Article 3 of the Money Laundering Order, the trust or limited partnership will be considered to be the third party on whose behalf the trustee(s) or general partner(s) act(s).
+
+In these cases the Unregulated Fund should have identified the persons for whom the investor is acting in line with Article 3(2) of the Money Laundering Order and the guidance provided in section 4 of the AML/CFT Handbook. For ease guidance has been provided below:
+
+- a) In a case where the third party is a legal person (e.g. a company), data should be provided on the individuals who are beneficial owners or controllers of that legal person (Article 3(2)(b)(ii) of the Money Laundering Order).
+- b) In a case where a third party is a trust (other than a collective investment fund), data should be provided on:
+- › the settlor vi ;
+- › the protector;
+- › beneficiaries with a vested right;
+- › other beneficiaries and persons who are the object of a power that have been identified as presenting a higher risk; and
+- › any other person who exercises ultimate effective control over the trust (Article 3(7) of the Money Laundering Order).
+- c) In a case where a third party is a limited partnership (other than a collective investment fund), data should be provided on the limited partners (Article 3(7) of the Money Laundering Order).
+
+In a case where a third party is a collective investment fund, data should be provided on any beneficial owners and controllers, i.e. individuals exercising control of the collective investment fund through ownership means, other means or through the position that they hold (see section 14.3.2 of the
+
+| Question  Number                                              | Guidance on Question                                                                     |
+|---------------------------------------------------------------|------------------------------------------------------------------------------------------|
+| Section ZB4-Beneficial Owner, Controller and Third Party Data | Section ZB4-Beneficial Owner, Controller and Third Party Data                            |
+|                                                               | AML/CFT Handbook (section 14 specifically addresses Funds and Fund  Services Business)). |
+
+## 6 ZB5: Concessions Data
+
+## 6.1 General
+
+- 6.1.1 This section collects data about the application of concessions set out in the Money Laundering Order that can be used in the circumstances prescribed in Articles 13 (client identification and verification), 16 (reliance on obliged persons), 16A (persons in the same financial group) and Part 3A (CDD exemptions).
+- 6.1.2 On 12 February 2020, Articles 17A, 17C and 17D were slightly amended. These amendments have been reflected in the text below.
+- (a) The following table provides guidance on the period to be covered by each question:
+
+| Question                                                                                      | Data period                                                                                   | Date(s)                                                                                       |
+|-----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
+| Global Concessions                                                                            | Global Concessions                                                                            | Global Concessions                                                                            |
+| ZB5(a)                                                                                        | During the reporting period                                                                   | 1/1/2020 - 31/12/2020                                                                         |
+| Client identification and verification (Article 13)                                           | Client identification and verification (Article 13)                                           | Client identification and verification (Article 13)                                           |
+| ZB5(b)                                                                                        | During the reporting period                                                                   | 1/1/2020 - 31/12/2020                                                                         |
+| Reliance on obliged persons (Article 16 and 16A of the MLO)                                   | Reliance on obliged persons (Article 16 and 16A of the MLO)                                   | Reliance on obliged persons (Article 16 and 16A of the MLO)                                   |
+| ZB5(c)(i)                                                                                     | At end of reporting period                                                                    | 31/12/2020 or closest business day                                                            |
+| ZB5(c)(ii)                                                                                    | At end of reporting period                                                                    | 31/12/2020 or closest business day                                                            |
+| Exemptions from applying third party identification requirements  (Articles 17B-D of the MLO) | Exemptions from applying third party identification requirements  (Articles 17B-D of the MLO) | Exemptions from applying third party identification requirements  (Articles 17B-D of the MLO) |
+| ZB5(c)(iii)                                                                                   | At end of reporting period                                                                    | 31/12/2020 or closest business day                                                            |
+| ZB5(c)(iv)                                                                                    | At end of reporting period                                                                    | 31/12/2020 or closest business day                                                            |
+| ZB5(c)(v)                                                                                     | At end of reporting period                                                                    | 31/12/2020 or closest business day                                                            |
+| ZB5(c)(vi)                                                                                    | At end of reporting period                                                                    | 31/12/2020 or closest business day                                                            |
+| Further exemptions from applying identification requirements  (Article 18 of the MLO)         | Further exemptions from applying identification requirements  (Article 18 of the MLO)         | Further exemptions from applying identification requirements  (Article 18 of the MLO)         |
+| ZB5(c)(v)                                                                                     | During the reporting period                                                                   | 1/1/2020 - 31/12/2020                                                                         |
+| ZB5(c)(vi)                                                                                    | During the reporting period                                                                   | 1/1/2020 - 31/12/2020                                                                         |
+| ZB5(c)(vii)                                                                                   | During the reporting period                                                                   | 1/1/2020 - 31/12/2020                                                                         |
+| ZB5(c)(viii)                                                                                  | During the reporting period                                                                   | 1/1/2020 - 31/12/2020                                                                         |
+| ZB5(c)(ix)                                                                                    | During the reporting period                                                                   | 1/1/2020 - 31/12/2020                                                                         |
+
+## 6.2 Guidance table
+
+| Section ZB5-Concessions Data   | Section ZB5-Concessions Data                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+|--------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ZB1(a)                         | Name of Fund: Auto-populated with each Unregulated Fund name as it appears on the  Registry system - lists each Unregulated Fund that the FSB provides services  to. Please answer using the relevant line for each named Unregulated Fund.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| ZB5(a)                         | Total number of individuals/entities to whom concessions have been  applied who are investors or connected to investors in the  Unregulated Funds (including via beneficial owners and controllers or  as third parties for whom the investor acts) The JFSC is seeking to understand the frequency of the use of concessions.  Consequently, this question is designed to elicit the total number of  concessions applied to investors by the Unregulated Fund. It is acknowledged  that more than one concession may be utilised for the same investor. The response to this question should equal the sum of ZB5(c)(i) to (ix).                                                                                                                                                                                                                                                                                                                                 |
+| ZB5(b)                         | Number of investors where delayed verification in line with  Article 13(4) of the MLO was applied In accordance with Article 13(4) of the Money Laundering Order an  Unregulated Fund is permitted to delay verifying the identity of an investor  where (finding out the identity of the investor must not be delayed): a) it is necessary not to interrupt the normal course of business;  b) there is little risk of money laundering or financing of terrorism  occurring as a result of obtaining evidence of identity after  establishing the relationship; and  c) evidence of identity is obtained as soon as reasonably practicable. Question  ZB5(b)  collects data about the number of investors where delayed  verification in line with Article 13(4) of the Money Laundering Order has been  applied.  If an Unregulated Fund has not delayed the verification of any investors  identity during the data reporting period, please respond with '0'. |
+
+## ZB5(c)
+
+## In relation to the answer to ZB5(c) please indicate the numbers of individuals / entities to whom each of the concessions apply
+
+| Reliance                                                          | Articles 16 and 16A   |
+|-------------------------------------------------------------------|-----------------------|
+| Exemptions from applying third party  identification requirements | Articles 17B-D        |
+| Other CDD exemptions                                              | Article 18            |
+
+This question is designed to analyse the number of types of concessions applied to investors, their beneficial owners and controllers and third parties for whom the investor acts during the CDD process.
+
+## Reliance - Article 16 and 16A
+
+In line with Article 16 of the Money Laundering Order, reliance may be placed on an obliged person only where the six conditions, explained in section 5.1 of the AML/CFT Handbook, are met. In practice, this has the effect of:
+
+- a) limiting the number of obliged persons that can be relied upon; and
+- b) requiring the basis for placing reliance to be recorded in writing.
+
+In line with Article 16A of the Money Laundering Order, reliance may be placed on an obliged person that is part of the same financial group only where the six conditions, explained in section 5.2 of the AML/CFT Handbook, are met. The effect of this is similar to Article 16.
+
+This question is not seeking the number of entities upon which reliance is placed it is seeking the number of investors where reliance has been used in the CDD process. This might be where reliance is used in relation to the investor or any beneficial owners or controllers of the investor. For example if reliance is used in relation to both the investor and its 4 beneficial owners and controllers, then this would count as 1 investor.
+
+## Exemptions from applying third party identification requirements Articles 17B-D
+
+In line with Articles 17B-D of the Money Laundering Order, an Unregulated Fund may apply CDD exemptions and not find out the identity of a third party on whose behalf a customer acts or obtain evidence of identity. The application of the exemption is dependent upon the status of the customer and in some circumstances the Unregulated Fund.
+
+The Unregulated Fund may apply exemptions from applying third party identification requirements in 4 circumstances if the fund has reasonable grounds for believing that its investor is:
+
+- a) regulated and supervised by the JFSC for AML/CFT purposes;
+- b) a person who carries on equivalent business (refer to Section 1.7 of the AML/CFT Handbook); or
+- c) a person who is wholly-owned by a person listed above and meets certain conditions.
+
+The application of exemptions from third party identification measures is also always subject to one or more conditions (depending on the particular case). In practice, these provisions have the effect of:
+
+- a) limiting the number of investors to which exemptions from third party identification measures can be applied; and
+- b) requiring the basis for applying exemptions from third party identification measures to be recorded in writing.
+
+## The four circumstances are:
+
+- a) Article 17B(1): customer/or parent of customer is a JFSC regulated (or equivalent business) deposit-taker, fund, insurer, investment business or fund services business
+- b) Articles 17C(1)(a) and 17C(1)(b): customer is or carries on business in respect of an Unregulated Fund or non-public fund (or equivalent business)
+- c) Article 17C(1)(c)(i) where the relevant person is a deposit-taker and investor is a TCB (or equivalent business)
+- d) Article 17C(1)(d) where the relevant person is a deposit-taker and investor is a lawyer (or equivalent business)
+
+This question is seeking the number of investors where third parties who it acts for have not been identified pursuant to Articles 17B-D. For example 1 regulated bank (the investor) acts on behalf of 10 clients. The number of investors to whom this concession relates is 1 and should be reported as 1.
+
+## Further CDD exemptions - Article 18
+
+Article 18 of the Money Laundering Order sets out a number of very specific circumstances where an Unregulated Fund may be able to apply further CDD exemptions to its investors. See sections 7.13 - 7.16 of the AML/CFT Handbook for further guidance. Not all of these CDD exemptions have the same effect. Investors to whom CDD exemptions have been applied could include:
+
+- a) Article 18(2) - pension, superannuation, employee benefit, share option or similar scheme
+- b) Article 18(1) - insurance policies
+- c) Article 18(4) - public authorities, companies listed on an IOSCOcompliant market or regulated market
+- d) Article 18(3) - regulated businesses or equivalent
+- e) Article 18(5)- employees of regulated businesses or equivalent
+
+This question is seeking the number of investors to whom CDD exemptions have been applied pursuant to Article 18.
+
+## 7 ZB6: Freetext Explanations
+
+## 7.1 Guidance table
+
+| Question  Number                   | Guidance on Question                                                                                                                                                                                                                                                                                                                                            |
+|------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Section ZB6: Freetext Explanations | Section ZB6: Freetext Explanations                                                                                                                                                                                                                                                                                                                              |
+| ZB6                                | If any explanation of an answer to a question in  ZB1  to  ZB5  is required then  use this page.                                                                                                                                                                                                                                                                |
+|                                    | Identify the Unregulated Fund and the question number when providing the  explanation.                                                                                                                                                                                                                                                                          |
+|                                    | Examples of matters which may be included here:                                                                                                                                                                                                                                                                                                                 |
+|                                    | a) Where an Unregulated Fund is in liquidation, has been liquidated, is  terminating or has terminated or where the FSB has ceased to act  (subject to 1.4.4 and 1.4.5 above) responses are not required for each  question but please identify here the Unregulated Fund and an  explanation as to their status i.e. terminated/liquidated/FSB ceased to  act. |
+|                                    | b) Where the answer to ZB(d)(i), is Yes, but the exchange of which the  Unregulated Fund us listed does not appear in ZB(d)(ii) please provide  the details of the exchange here.                                                                                                                                                                               |
+
+i Industry update: 2020 Supervisory Risk Data Collection Exercise
+
+- ii Promoter Policy available at: https://www.jerseyfsc.org/industry/guidance-and-policy/promoter-policy/
+- iii The CIF Code is available from the JFSC website: https://www.jerseyfsc.org/industry/codes-ofpractice/certified-funds-code-of-practice/
+- iv Section 2.4.1 of the AML/CFT Handbook (paragraph 32) explains that a fund may demonstrate that it checks that systems and controls are operating effectively where senior management periodically considers the effect of those systems and controls in light of the number and percentage of investors that have been assessed as presenting a higher risk.
+- v No individual is to be treated as a beneficial owner of a body corporate the securities of which are listed on a regulated market. For the purpose of this section it is assumed that a fund is most likely to deal with legal persons that are companies therefore the text has been amended accordingly.
+- vi Excluding a settlor of a trust who is deceased in line with paragraph 72 of section 4.4 of the AML/CFT Handbook.
