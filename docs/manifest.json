@@ -1,0 +1,970 @@
+[
+  {
+    "title": "Borrowing Money? A Code of Practice for Consumer Lending",
+    "path": "md/ID_Code_of_practice_consumer_lending_20111212_SW.md"
+  },
+  {
+    "title": "Guidance Note: For what comprises 'Advice' as opposed to 'Arranging' in the context of Trust Company Business",
+    "path": "md/gn-advice-v-arranging.md"
+  },
+  {
+    "title": "Guidance Note:",
+    "path": "md/gn-aifmd-transitional-arrangements.md"
+  },
+  {
+    "title": "Guidance Note: Definitions and Guidance on the Adjusted NET Liquid Assets (ANLA) Calculation",
+    "path": "md/gn-anla-calculation.md"
+  },
+  {
+    "title": "Guidance Note: Applications under the Insurance Business (Jersey) Law 1996",
+    "path": "md/gn-applications-under-ib-j-l.md"
+  },
+  {
+    "title": "Guidance Note: Applications under the Motor Traffic (Third Party Insurance) (Jersey) Law 1948",
+    "path": "md/gn-applications-under-motor-traffic-third-party-insurance-0000.md"
+  },
+  {
+    "title": "Guidance Note:",
+    "path": "md/gn-basel-iii-pillar-2-appendix-c-liquidity-gn.md"
+  },
+  {
+    "title": "Guidance notes Benchmarking under the Code of Practice for Investment Business",
+    "path": "md/gn-benchmarking-under-cop-for-investment-business.md"
+  },
+  {
+    "title": "Registry guidance on beneficial ownership and control for regulated service providers",
+    "path": "md/gn-beneficial-ownership-and-control-guidance.md"
+  },
+  {
+    "title": "Guidance Note",
+    "path": "md/gn-branches-111-liquidity-cashflows-validation.md"
+  },
+  {
+    "title": "Guidance Note",
+    "path": "md/gn-branches-112-liquidity-large-deposits-validation.md"
+  },
+  {
+    "title": "Guidance Note",
+    "path": "md/gn-branches-113-whole-bank-liquidity-data-validation.md"
+  },
+  {
+    "title": "Guidance Note",
+    "path": "md/gn-branches-23-bs-liabilities-validation.md"
+  },
+  {
+    "title": "Guidance Note",
+    "path": "md/gn-branches-24-off-balance-sheet-validation.md"
+  },
+  {
+    "title": "Guidance Note",
+    "path": "md/gn-branches-25-profit-and-loss-validation.md"
+  },
+  {
+    "title": "Guidance Note",
+    "path": "md/gn-branches-26-liquidity-summary-validation.md"
+  },
+  {
+    "title": "Guidance Note",
+    "path": "md/gn-branches-51-fx-gold-validation.md"
+  },
+  {
+    "title": "Guidance Note",
+    "path": "md/gn-branches-52-commodities-validation.md"
+  },
+  {
+    "title": "Guidance Note",
+    "path": "md/gn-branches-55-branch-settlement-risk-validation.md"
+  },
+  {
+    "title": "Guidance Note",
+    "path": "md/gn-branches-56-otc-validation.md"
+  },
+  {
+    "title": "Guidance Note",
+    "path": "md/gn-branches-81-asset-quality-provisions-validation.md"
+  },
+  {
+    "title": "Guidance Note",
+    "path": "md/gn-branches-82-loan-security-validation.md"
+  },
+  {
+    "title": "Guidance Note",
+    "path": "md/gn-branches-83-total-deposits-validation.md"
+  },
+  {
+    "title": "Guidance Note",
+    "path": "md/gn-branches-84-lending-by-sector-validation.md"
+  },
+  {
+    "title": "Guidance Note",
+    "path": "md/gn-branches-85-large-exposures-validation.md"
+  },
+  {
+    "title": "Guidance Note",
+    "path": "md/gn-branches-86-exempt-large-exposures-validation.md"
+  },
+  {
+    "title": "Guidance Note",
+    "path": "md/gn-branches-91-fiduciary-activity-validation.md"
+  },
+  {
+    "title": "Guidance Note",
+    "path": "md/gn-branches-911-whole-bank-prudential-data-validation.md"
+  },
+  {
+    "title": "Guidance Note",
+    "path": "md/gn-branches-92-parent-accounts-validation.md"
+  },
+  {
+    "title": "Guidance Note",
+    "path": "md/gn-branches-93-additional-detail-validation.md"
+  },
+  {
+    "title": "Guidance Note",
+    "path": "md/gn-branches-94-commentary-on-movements.md"
+  },
+  {
+    "title": "Guidance Note",
+    "path": "md/gn-branches-95-dcs-data-validation.md"
+  },
+  {
+    "title": "Guidance Note",
+    "path": "md/gn-branches-99-other-information-validation.md"
+  },
+  {
+    "title": "Guidance note",
+    "path": "md/gn-branches-liquidity-data-guide.md"
+  },
+  {
+    "title": "Guidance Note",
+    "path": "md/gn-circulation-non-jersey-offers.md"
+  },
+  {
+    "title": "Guidance Note: Compliance Monitoring",
+    "path": "md/gn-compliance-monitoring.md"
+  },
+  {
+    "title": "Distinguishing between the authorisation requirements of a Managed Trust Company and a Participating Member with an affiliation",
+    "path": "md/gn-distinguishing-between-managed-trust-company-and-participating-member.md"
+  },
+  {
+    "title": "Frequently Asked Questions: Crowdfunding",
+    "path": "md/gn-faqs-crowdfunding.md"
+  },
+  {
+    "title": "Guidance Note: Forward Foreign Exchange",
+    "path": "md/gn-forward-foreign-exchange-transactions.md"
+  },
+  {
+    "title": "Guide to Section II of risk based supervision data: FSBs with respect to Unregulated Funds",
+    "path": "md/gn-fsb-and-unregulated-funds-section-ii.md"
+  },
+  {
+    "title": "Guidance Note FSB Licensing of LLPs",
+    "path": "md/gn-fsb-licensing-llps.md"
+  },
+  {
+    "title": "Guidance Note",
+    "path": "md/gn-fsb-licensing-lps-with-an-llp-gp.md"
+  },
+  {
+    "title": "This is 'Document C' - Overview",
+    "path": "md/gn-fsb-licensing-slps-ilps-with-an-llp-gp.md"
+  },
+  {
+    "title": "Licensing Policy in respect of those activities that require registration under the Financial Services (Jersey) Law 1998",
+    "path": "md/gn-fsjl-licencing-policy.md"
+  },
+  {
+    "title": "Guidance to Section I of risk based supervision data",
+    "path": "md/gn-guidance-section-i-risk-based-supervision-data-2020.md"
+  },
+  {
+    "title": "Guide to Section I of risk based supervision data: Sole Traders",
+    "path": "md/gn-guide-section-i-risk-based-supervision-data-sole-traders-2020.md"
+  },
+  {
+    "title": "Guide to integrity checking your Section I risk based supervision data",
+    "path": "md/gn-guide-to-integrity-checking-your-section-i-risk-based-supervision-data-2020.md"
+  },
+  {
+    "title": "Guide to Section II of risk based supervision data: Accountants",
+    "path": "md/gn-guide-to-section-ii-supervisory-risk-data-collection-accountants-2019.md"
+  },
+  {
+    "title": "Guide to Section II of risk based supervision data: Deposit-takers",
+    "path": "md/gn-guide-to-section-ii-supervisory-risk-data-collection-banking-2019.md"
+  },
+  {
+    "title": "Guide to Section II of risk based supervision data: Estate Agents",
+    "path": "md/gn-guide-to-section-ii-supervisory-risk-data-collection-estate-agents-2019.md"
+  },
+  {
+    "title": "Guide to Section II of risk based supervision data: Lawyers",
+    "path": "md/gn-guide-to-section-ii-supervisory-risk-data-collection-exercise-lawyers-2019.md"
+  },
+  {
+    "title": "Guide to Section II of risk based supervision data: Money Service Business",
+    "path": "md/gn-guide-to-section-ii-supervisory-risk-data-collection-exercise-msb-not-banks-2019.md"
+  },
+  {
+    "title": "Guide to Section II of risk based supervision data:",
+    "path": "md/gn-guide-to-section-ii-supervisory-risk-data-collection-exercise-regulated-npos-ptcs-2019.md"
+  },
+  {
+    "title": "Guide to Section II of risk based supervision data: Fund Services Business i",
+    "path": "md/gn-guide-to-section-ii-supervisory-risk-data-collection-fsb-2019.md"
+  },
+  {
+    "title": "Guide to Section II of risk based supervision data: Investment business",
+    "path": "md/gn-guide-to-section-ii-supervisory-risk-data-collection-investment-business-2019.md"
+  },
+  {
+    "title": "Guide to Section II of risk based supervision data:",
+    "path": "md/gn-guide-to-section-ii-supervisory-risk-data-collection-mome-2019.md"
+  },
+  {
+    "title": "Guide to Section II of risk based supervision data: Trust Company Business",
+    "path": "md/gn-guide-to-section-ii-supervisory-risk-data-collection-tcb-2019.md"
+  },
+  {
+    "title": "Guidance Note: Impact of International Financial Reporting Standards (IFRS) on Banking Prudential Reporting",
+    "path": "md/gn-impact-of-ifrs-standards-banking-prudential-reporting.md"
+  },
+  {
+    "title": "Guidance Note",
+    "path": "md/gn-impact-of-ifrs.md"
+  },
+  {
+    "title": "Guide to incorporating a Jersey company for local residents",
+    "path": "md/gn-incorporating-jersey-company-local-residents.md"
+  },
+  {
+    "title": "Guidance Note: Transfers of Insurance Business under the Insurance Business (Jersey) Law 1996",
+    "path": "md/gn-insurance-transfer-schemes.md"
+  },
+  {
+    "title": "Guidance Note: Integrity and Competence",
+    "path": "md/gn-integrity-and-competence.md"
+  },
+  {
+    "title": "Jersey Private Placement Fund Guide",
+    "path": "md/gn-jersey-private-placement-fund-classification-guide.md"
+  },
+  {
+    "title": "The application process for issuers of initial coin and token offerings (IC/TOs)",
+    "path": "md/gn-jfsc-ico-guidance-note.md"
+  },
+  {
+    "title": "Guidance Note",
+    "path": "md/gn-jibs-101-funding-concentrations-validation.md"
+  },
+  {
+    "title": "Guidance Note",
+    "path": "md/gn-jibs-102-hqla-details-validation.md"
+  },
+  {
+    "title": "Guidance Note",
+    "path": "md/gn-jibs-103-lcr-history-validation.md"
+  },
+  {
+    "title": "Guidance Note",
+    "path": "md/gn-jibs-104-lmr-history-validation.md"
+  },
+  {
+    "title": "Guidance Note",
+    "path": "md/gn-jibs-105-cashflows-validation.md"
+  },
+  {
+    "title": "Guidance Note",
+    "path": "md/gn-jibs-11-hqla-validation.md"
+  },
+  {
+    "title": "Guidance Note",
+    "path": "md/gn-jibs-12-lcr-lmr-validation.md"
+  },
+  {
+    "title": "Guidance Note",
+    "path": "md/gn-jibs-13-nsfr-validation.md"
+  },
+  {
+    "title": "Guidance Note",
+    "path": "md/gn-jibs-21-balance-sheet-assets-validation.md"
+  },
+  {
+    "title": "Guidance Note",
+    "path": "md/gn-jibs-22-credit-summary-validation.md"
+  },
+  {
+    "title": "Guidance Note",
+    "path": "md/gn-jibs-23-balance-sheet-liabilities-validation.md"
+  },
+  {
+    "title": "Guidance Note",
+    "path": "md/gn-jibs-24-off-balance-sheet-validation.md"
+  },
+  {
+    "title": "Guidance Note",
+    "path": "md/gn-jibs-25-profit-and-loss-validation.md"
+  },
+  {
+    "title": "Guidance Note",
+    "path": "md/gn-jibs-31-sac-balance-sheet-validation.md"
+  },
+  {
+    "title": "Guidance Note",
+    "path": "md/gn-jibs-32-sac-obs-validation.md"
+  },
+  {
+    "title": "Guidance Note",
+    "path": "md/gn-jibs-33-otc-interest-rates-validation.md"
+  },
+  {
+    "title": "Guidance Note",
+    "path": "md/gn-jibs-34-otc-fx-and-gold-validation.md"
+  },
+  {
+    "title": "Guidance Note",
+    "path": "md/gn-jibs-35-otc-equities-validation.md"
+  },
+  {
+    "title": "Guidance Note",
+    "path": "md/gn-jibs-36-otc-precious-metals-validation.md"
+  },
+  {
+    "title": "Guidance Note",
+    "path": "md/gn-jibs-37-otc-commodities-validation.md"
+  },
+  {
+    "title": "Guidance Note",
+    "path": "md/gn-jibs-38-sac-netted-exposures-validation.md"
+  },
+  {
+    "title": "Guidance Note",
+    "path": "md/gn-jibs-39-sac-summary-validation.md"
+  },
+  {
+    "title": "Guidance Note",
+    "path": "md/gn-jibs-41-bia-validation.md"
+  },
+  {
+    "title": "Guidance Note",
+    "path": "md/gn-jibs-42-sao-validation.md"
+  },
+  {
+    "title": "Guidance Note",
+    "path": "md/gn-jibs-51-fx-gold-validation.md"
+  },
+  {
+    "title": "Guidance Note",
+    "path": "md/gn-jibs-52-commodities-validation.md"
+  },
+  {
+    "title": "Guidance Note",
+    "path": "md/gn-jibs-53-settlement-risk-credit-risk-validation.md"
+  },
+  {
+    "title": "Guidance Note",
+    "path": "md/gn-jibs-54-settlement-risk-capital-risk-validation.md"
+  },
+  {
+    "title": "Guidance Note",
+    "path": "md/gn-jibs-61-capital-adequacy-validation.md"
+  },
+  {
+    "title": "Guidance Note",
+    "path": "md/gn-jibs-62-leverage-ratio-validation.md"
+  },
+  {
+    "title": "Guidance Note",
+    "path": "md/gn-jibs-71-irrbb-summary-validation.md"
+  },
+  {
+    "title": "Guidance Note",
+    "path": "md/gn-jibs-72-irrbb-accounting-currency-validation.md"
+  },
+  {
+    "title": "Guidance Note",
+    "path": "md/gn-jibs-73-irrbb-major-1-validation.md"
+  },
+  {
+    "title": "Guidance Note",
+    "path": "md/gn-jibs-74-irrbb-major-2-validation.md"
+  },
+  {
+    "title": "Guidance Note",
+    "path": "md/gn-jibs-75-irrbb-major-3-validation.md"
+  },
+  {
+    "title": "Guidance Note",
+    "path": "md/gn-jibs-76-irrbb-minor-currency-validation.md"
+  },
+  {
+    "title": "Guidance Note",
+    "path": "md/gn-jibs-81-asset-quality-and-provisions-validation.md"
+  },
+  {
+    "title": "Guidance Note",
+    "path": "md/gn-jibs-82-loan-security-validation.md"
+  },
+  {
+    "title": "Guidance Note",
+    "path": "md/gn-jibs-83-total-deposits-validation.md"
+  },
+  {
+    "title": "Guidance Note",
+    "path": "md/gn-jibs-84-lending-by-sector-validation.md"
+  },
+  {
+    "title": "Guidance Note",
+    "path": "md/gn-jibs-85-large-exposures-validation.md"
+  },
+  {
+    "title": "Guidance Note",
+    "path": "md/gn-jibs-86-exempt-large-exposures-validation.md"
+  },
+  {
+    "title": "Guidance Note",
+    "path": "md/gn-jibs-91-fiduciary-activity-validation.md"
+  },
+  {
+    "title": "Guidance Note",
+    "path": "md/gn-jibs-910-directors-interests-validation.md"
+  },
+  {
+    "title": "Guidance Note",
+    "path": "md/gn-jibs-92-parent-accounts-validation.md"
+  },
+  {
+    "title": "Guidance Note",
+    "path": "md/gn-jibs-93-additional-detail-validation.md"
+  },
+  {
+    "title": "Guidance Note",
+    "path": "md/gn-jibs-94-commentary-on-movements-validation.md"
+  },
+  {
+    "title": "Guidance Note",
+    "path": "md/gn-jibs-95-dcs-data-validation.md"
+  },
+  {
+    "title": "Guidance Note",
+    "path": "md/gn-jibs-96-firb-detail-validation.md"
+  },
+  {
+    "title": "Guidance Note",
+    "path": "md/gn-jibs-97-airb-detail-validation.md"
+  },
+  {
+    "title": "Guidance Note",
+    "path": "md/gn-jibs-98-local-interbank-market-validation.md"
+  },
+  {
+    "title": "Guidance Note",
+    "path": "md/gn-jibs-99-other-information-validation.md"
+  },
+  {
+    "title": "Guidance Note:",
+    "path": "md/gn-jibs-interest-rate-risk-in-the-banking-book-guide.md"
+  },
+  {
+    "title": "Guidance Note",
+    "path": "md/gn-jibs-liquidity-supporting-data.md"
+  },
+  {
+    "title": "Guidance Note",
+    "path": "md/gn-jibs-loans-and-deposits-data-guide.md"
+  },
+  {
+    "title": "Guidance Note:",
+    "path": "md/gn-jibs-operational-risk-guide-december-2018.md"
+  },
+  {
+    "title": "Guidance Note:",
+    "path": "md/gn-jibs-other-prudential-data-guide.md"
+  },
+  {
+    "title": "Guidance Note",
+    "path": "md/gn-jibs-prudential-reporting-of-financial-data.md"
+  },
+  {
+    "title": "Prudential Reporting - JIBs",
+    "path": "md/gn-jibs-prudential-reporting-submission-guide.md"
+  },
+  {
+    "title": "Guidance Note",
+    "path": "md/gn-jibs-standardised-approach-to-market-risk-guide-december-2018.md"
+  },
+  {
+    "title": "Guide to Section II of risk based supervision data: Lenders",
+    "path": "md/gn-lenders-not-banks-section-ii.md"
+  },
+  {
+    "title": "Guidance Note Limited Liability Partnerships (Jersey) Law 1997",
+    "path": "md/gn-limited-liability-partnerships-law-1997.md"
+  },
+  {
+    "title": "Guidance Note: Limited Partnerships (Jersey) Law 1994",
+    "path": "md/gn-limited-partnerships-law-1994.md"
+  },
+  {
+    "title": "Guidance Note: Liquidity Management and Reporting",
+    "path": "md/gn-liquidity-management-and-reporting.md"
+  },
+  {
+    "title": "Guidance Note: Managed Trust Company",
+    "path": "md/gn-managed-trust-company-business.md"
+  },
+  {
+    "title": "Guide to Section II of risk based supervision data:",
+    "path": "md/gn-manager-of-managed-entity-section-ii.md"
+  },
+  {
+    "title": "Guidance Note: for A Manager of a Managed Entity (A MoME) and certain managed entities",
+    "path": "md/gn-mome.md"
+  },
+  {
+    "title": "What is money laundering?",
+    "path": "md/gn-money-laundering.md"
+  },
+  {
+    "title": "Guide to Section II of risk based supervision data: Money Service Business",
+    "path": "md/gn-money-service-business-section-ii.md"
+  },
+  {
+    "title": "Guidance Note",
+    "path": "md/gn-natural-persons-carrying-on-activity-of-director.md"
+  },
+  {
+    "title": "Guidance Note: Natural Persons carrying on a single class of Trust Company Business",
+    "path": "md/gn-natural-persons-carrying-on-single-class-tcb.md"
+  },
+  {
+    "title": "Professional indemnity insurance guidance note",
+    "path": "md/gn-professional-indemnity-insurance-guidance-note.md"
+  },
+  {
+    "title": "Guidance note Professional Qualifications (Investment Business)",
+    "path": "md/gn-professional-qualifications-ib.md"
+  },
+  {
+    "title": "Professional Qualifications (Trust Company Business)",
+    "path": "md/gn-professional-qualifications-tcb.md"
+  },
+  {
+    "title": "Guidance notes",
+    "path": "md/gn-provision-of-investment-services-to-vps-under-cop-for-investment-business.md"
+  },
+  {
+    "title": "Guidance Note",
+    "path": "md/gn-prudential-reporting-financial-data.md"
+  },
+  {
+    "title": "Guidance note Prudential Reporting of Loans and Deposits Data",
+    "path": "md/gn-prudential-reporting-loans-and-deposits-data-guide.md"
+  },
+  {
+    "title": "Guidance note",
+    "path": "md/gn-prudential-reporting-market-risk.md"
+  },
+  {
+    "title": "Companies (Jersey) Law 1991: Recognized",
+    "path": "md/gn-recognized-auditors.md"
+  },
+  {
+    "title": "Guidance note: making a referral to the police and/or the Attorney General",
+    "path": "md/gn-referral-to-police-or-ag.md"
+  },
+  {
+    "title": "Registered office requirements",
+    "path": "md/gn-registered-office-requirements.md"
+  },
+  {
+    "title": "Registry Processing Statement",
+    "path": "md/gn-registry-processing-statement.md"
+  },
+  {
+    "title": "Guide to Section II of risk based supervision data:",
+    "path": "md/gn-regulated-non-profit-making-organisations-and-private-trust-companies-section-ii.md"
+  },
+  {
+    "title": "Guidance Note: Remediation Action Plans",
+    "path": "md/gn-remediation-action-plans.md"
+  },
+  {
+    "title": "Guide to Section II of risk based supervision data: Accountants",
+    "path": "md/gn-risk-based-supervision-data-accountants-2020.md"
+  },
+  {
+    "title": "Guide to Section II of risk based supervision data: Deposit-takers",
+    "path": "md/gn-risk-based-supervision-data-deposit-takers-2020.md"
+  },
+  {
+    "title": "Guide to Section II of risk based supervision data:",
+    "path": "md/gn-risk-based-supervision-data-designated-service-providers-jersey-private-funds-2020.md"
+  },
+  {
+    "title": "Guide to Section II of risk based supervision data: FSBs with respect to Unregulated Funds",
+    "path": "md/gn-risk-based-supervision-data-fsbs-unregulated-funds.md"
+  },
+  {
+    "title": "Guide to Section II of risk based supervision data:",
+    "path": "md/gn-risk-based-supervision-data-gn-trust-company-businesses-regulated-non-profit-organizations-private-trust-companies-2020.md"
+  },
+  {
+    "title": "Guide to Section II of risk based supervision data: Investment business",
+    "path": "md/gn-risk-based-supervision-data-investment-business-2020.md"
+  },
+  {
+    "title": "Guide to Section II of risk based supervision data: Lawyers",
+    "path": "md/gn-risk-based-supervision-data-lawyers-2020.md"
+  },
+  {
+    "title": "Guide to Section II of risk based supervision data: Lenders",
+    "path": "md/gn-risk-based-supervision-data-lenders-2020.md"
+  },
+  {
+    "title": "Guide to Section II of risk based supervision data:",
+    "path": "md/gn-risk-based-supervision-data-managers-of-managed-entities-2020.md"
+  },
+  {
+    "title": "Guide to Section II of risk based supervision data: Money Service Business",
+    "path": "md/gn-risk-based-supervision-data-money-service-business-2020.md"
+  },
+  {
+    "title": "Guide to Section II of risk based",
+    "path": "md/gn-risk-based-supervision-data-public-funds-2020.md"
+  },
+  {
+    "title": "Guide to Section II of risk based supervision data: Trust Company Business",
+    "path": "md/gn-risk-based-supervision-data-trust-company-business-2020.md"
+  },
+  {
+    "title": "Guide to Section III of risk based supervision data: Wire transfer",
+    "path": "md/gn-risk-based-supervision-data-wire-transfer-2020.md"
+  },
+  {
+    "title": "Guide to Section I of risk based supervision data: Sole Traders",
+    "path": "md/gn-risk-based-supervision-section-i-sole-traders.md"
+  },
+  {
+    "title": "Guidance to Section I of risk based supervision data",
+    "path": "md/gn-section-i-global-footprint-guidance-2019.md"
+  },
+  {
+    "title": "Guide to integrity checking your Section I risk based supervision data",
+    "path": "md/gn-section-i-global-footprint-integrity-checking-2019.md"
+  },
+  {
+    "title": "Guide to Section I of risk based supervision data: Sole Traders",
+    "path": "md/gn-section-i-global-footprint-sole-traders-2019.md"
+  },
+  {
+    "title": "Guide to Section II of risk based supervision data: Estate Agents",
+    "path": "md/gn-section-ii-estate-agents-2020.md"
+  },
+  {
+    "title": "Guide to Section II of risk based supervision data: Fund Services Business i",
+    "path": "md/gn-section-ii-fsb-2020.md"
+  },
+  {
+    "title": "Guide to Section II of risk based",
+    "path": "md/gn-section-ii-funds-cif-2019.md"
+  },
+  {
+    "title": "Guide to Section II of risk based supervision data:",
+    "path": "md/gn-section-ii-funds-jersey-private-funds-2019.md"
+  },
+  {
+    "title": "Guide to Section II of risk based supervision data: FSBs with respect to Unregulated Funds",
+    "path": "md/gn-section-ii-funds-unregulated-funds-2019.md"
+  },
+  {
+    "title": "Guide to Section III of risk based supervision data: Wire transfer",
+    "path": "md/gn-section-iii-wire-transfers-2019.md"
+  },
+  {
+    "title": "Guidance Note: the Completion and Submission of the Details of a Registered Person's Investment Employees and Senior Management",
+    "path": "md/gn-submission-ie-and-sm-details.md"
+  },
+  {
+    "title": "Guidance notes Suitability of Advice under the Code of Practice for Investment Business",
+    "path": "md/gn-suitability-advice-under-cop-for-investment-business.md"
+  },
+  {
+    "title": "What is terrorist financing",
+    "path": "md/gn-terrorist-financing.md"
+  },
+  {
+    "title": "Guidance Note: Treatment of Insurance Companies under the Financial Services (Jersey) Law 1998 in respect of Investment Business",
+    "path": "md/gn-treatment-of-insurance-companies-re-ib-13-september-2010.md"
+  },
+  {
+    "title": "Guidance Note: Pillar 2 in Jersey",
+    "path": "md/guidance-note-pillar-2-in-jersey.md"
+  },
+  {
+    "title": "Guidance Note",
+    "path": "md/guidance-note-prudential-reporting-of-capital-ratios.md"
+  },
+  {
+    "title": "Guidance Note",
+    "path": "md/guidance-note-prudential-reporting-of-liquidity-ratios.md"
+  },
+  {
+    "title": "Guidance on interpretation of 'in or from within Jersey' for the purposes of Proceeds of Crime (Supervisory Bodies) (Jersey) Law 2008",
+    "path": "md/guidance-on-interpretation-of-in-or-from-within-jersey-for-the-purposes-of-proceeds-of-crime-supervisory-bodies-jersey-law-2008.md"
+  },
+  {
+    "title": "Guide to integrity checking your Section I risk based supervision data",
+    "path": "md/guide-to-integrity-checking-your-section-i-risk-based-supervision-data-2023.md"
+  },
+  {
+    "title": "Guidelines on interpretation Article 36 of the Proceeds of Crime (Jersey) Law 1999",
+    "path": "md/guidelines-on-interpretation-031023.md"
+  },
+  {
+    "title": "Guidelines on interpretation Article 36 of the Proceeds of Crime (Jersey) Law 1999",
+    "path": "md/guidelines-on-interpretation-of-article-36.md"
+  },
+  {
+    "title": "Guidelines on interpretation Article 36 of the Proceeds of Crime (Jersey) Law 1999",
+    "path": "md/guidelines-on-interpretation-reformatted-30-sept-24.md"
+  },
+  {
+    "title": "Guidance note",
+    "path": "md/prudential-reporting-of-credit-risk-under-the-standardised-approach-to-credit-risk.md"
+  },
+  {
+    "title": "Guidance to Section I of risk based supervision data",
+    "path": "md/section-i-global-footprint-guidance-2021.md"
+  },
+  {
+    "title": "Guidance to Section I of risk based supervision data",
+    "path": "md/section-i-global-footprint-guidance-2022.md"
+  },
+  {
+    "title": "Guidance to Section I of risk based supervision data",
+    "path": "md/section-i-global-footprint-guidance-2023.md"
+  },
+  {
+    "title": "Guide to integrity checking your Section I risk based supervision data",
+    "path": "md/section-i-global-footprint-integrity-checking-2021.md"
+  },
+  {
+    "title": "Guide to integrity checking your Section I risk based supervision data",
+    "path": "md/section-i-global-footprint-integrity-checking-2022.md"
+  },
+  {
+    "title": "Guide to Section I of risk based supervision data:",
+    "path": "md/section-i-global-footprint-sole-traders-2022.md"
+  },
+  {
+    "title": "Guide to Section I of risk based supervision data:",
+    "path": "md/section-i-global-footprint-sole-traders-2023.md"
+  },
+  {
+    "title": "Guide to Section II of risk based supervision data: Accountants",
+    "path": "md/section-ii-accountants-2021.md"
+  },
+  {
+    "title": "Guide to Section II of risk based supervision data: Accountants",
+    "path": "md/section-ii-accountants-2022.md"
+  },
+  {
+    "title": "Guide to Section II of risk based supervision data: Accountants",
+    "path": "md/section-ii-accountants-2023.md"
+  },
+  {
+    "title": "Guide to Section II of risk based supervision data: Deposit-takers",
+    "path": "md/section-ii-banking-2021.md"
+  },
+  {
+    "title": "Guide to Section II of risk based supervision data: Deposit-takers",
+    "path": "md/section-ii-banking-2022.md"
+  },
+  {
+    "title": "Guide to Section II of risk based supervision data: Deposit-takers",
+    "path": "md/section-ii-banking-2023.md"
+  },
+  {
+    "title": "Guide to Section II of risk based supervision data: Estate Agents",
+    "path": "md/section-ii-estate-agents-2021.md"
+  },
+  {
+    "title": "Guide to Section II of risk based supervision data: Estate Agents",
+    "path": "md/section-ii-estate-agents-2022.md"
+  },
+  {
+    "title": "Guide to Section II of risk based supervision data: Real Estate Agents",
+    "path": "md/section-ii-estate-agents-2023.md"
+  },
+  {
+    "title": "Guide to Section II of risk based supervision data: Fund Services Business",
+    "path": "md/section-ii-fsb-2021.md"
+  },
+  {
+    "title": "Guide to Section II of risk based supervision data: Fund Services Business i",
+    "path": "md/section-ii-fsb-2022.md"
+  },
+  {
+    "title": "Guide to Section II of risk based supervision data: Fund Services Business i",
+    "path": "md/section-ii-fsb-2023.md"
+  },
+  {
+    "title": "Guide to Section II of risk based",
+    "path": "md/section-ii-funds-cif-2021.md"
+  },
+  {
+    "title": "Guide to Section II of risk based",
+    "path": "md/section-ii-funds-cif-2022.md"
+  },
+  {
+    "title": "Guide to Section II of risk based",
+    "path": "md/section-ii-funds-cif-2023.md"
+  },
+  {
+    "title": "Guide to Section II of risk based supervision data:",
+    "path": "md/section-ii-funds-jersey-private-funds-2021.md"
+  },
+  {
+    "title": "Guide to Section II of risk based supervision data:",
+    "path": "md/section-ii-funds-jersey-private-funds-2022.md"
+  },
+  {
+    "title": "Guide to Section II of risk based supervision data:",
+    "path": "md/section-ii-funds-jersey-private-funds-2023.md"
+  },
+  {
+    "title": "Guide to Section II of risk based supervision data: FSBs with respect to Unregulated Funds",
+    "path": "md/section-ii-funds-unregulated-funds-2022.md"
+  },
+  {
+    "title": "Guide to Section II of risk based supervision data: FSBs with respect to Unregulated Funds",
+    "path": "md/section-ii-funds-unregulated-funds-2023.md"
+  },
+  {
+    "title": "Guide to Section II of risk based supervision data: Long-term Insurance",
+    "path": "md/section-ii-insurance-2021.md"
+  },
+  {
+    "title": "Guide to Section II of risk based supervision data: Long-term Insurance",
+    "path": "md/section-ii-insurance-2022.md"
+  },
+  {
+    "title": "Guide to Section II of risk based supervision data: Long-term Insurance",
+    "path": "md/section-ii-insurance-2023.md"
+  },
+  {
+    "title": "Guide to Section II of risk based supervision data: Investment business",
+    "path": "md/section-ii-investment-business-2021.md"
+  },
+  {
+    "title": "Guide to Section II of risk based supervision data: Investment business",
+    "path": "md/section-ii-investment-business-2022.md"
+  },
+  {
+    "title": "Guide to Section II of risk based supervision data: Investment business",
+    "path": "md/section-ii-investment-business-2023.md"
+  },
+  {
+    "title": "Guide to Section II of risk based supervision data: Lawyers",
+    "path": "md/section-ii-lawyers-2021.md"
+  },
+  {
+    "title": "Guide to Section II of risk based supervision data: Lawyers",
+    "path": "md/section-ii-lawyers-2022.md"
+  },
+  {
+    "title": "Guide to Section II of risk based supervision data: Lawyers",
+    "path": "md/section-ii-lawyers-2023.md"
+  },
+  {
+    "title": "Guide to Section II of risk based supervision data: Lenders",
+    "path": "md/section-ii-lenders-not-banks-2022.md"
+  },
+  {
+    "title": "Guide to Section II of risk based supervision data: Lenders",
+    "path": "md/section-ii-lenders-not-banks-2023.md"
+  },
+  {
+    "title": "Guide to Section II of risk based supervision data:",
+    "path": "md/section-ii-mome-2022.md"
+  },
+  {
+    "title": "Guide to Section II of risk based supervision data:",
+    "path": "md/section-ii-mome-2023.md"
+  },
+  {
+    "title": "Guide to Section II of risk based supervision data: Money Service Business",
+    "path": "md/section-ii-msb-not-banks-2022.md"
+  },
+  {
+    "title": "Guide to Section II of risk based supervision data: Money Service Business",
+    "path": "md/section-ii-msb-not-banks-2023.md"
+  },
+  {
+    "title": "Guide to Section II of risk based supervision data:",
+    "path": "md/section-ii-ptcs-2023.md"
+  },
+  {
+    "title": "Guide to Section II of risk based supervision data:",
+    "path": "md/section-ii-regulated-npos-administered-by-tcbs-2023.md"
+  },
+  {
+    "title": "Guide to Section II of risk based supervision data:",
+    "path": "md/section-ii-regulated-npos-ptcs-2022.md"
+  },
+  {
+    "title": "Guide to Section II of risk based supervision data: Trust Company Business",
+    "path": "md/section-ii-tcb-2021.md"
+  },
+  {
+    "title": "Guide to Section II of risk based supervision data: Trust Company Business",
+    "path": "md/section-ii-tcb-2022.md"
+  },
+  {
+    "title": "Guide to Section II of risk based supervision data: Trust Company Business",
+    "path": "md/section-ii-tcb-2023.md"
+  },
+  {
+    "title": "Guidance to Section II of risk based supervision data: TCB administered Jersey companies",
+    "path": "md/section-ii-tcb-administered-jersey-companies-2023.md"
+  },
+  {
+    "title": "Guidance to Section II of risk based supervision data: TCB administered Non-Jersey Incorporated Companies",
+    "path": "md/section-ii-tcb-administered-non-jersey-companies-2023.md"
+  },
+  {
+    "title": "Guidance to Section II of risk based supervision data: TCB administered Trusts",
+    "path": "md/section-ii-tcb-administered-trusts-2023.md"
+  },
+  {
+    "title": "Guide to Section II of risk-based supervision data: Virtual Asset Service Provider",
+    "path": "md/section-ii-vasp-2023.md"
+  },
+  {
+    "title": "Guide to Section III of risk based supervision data: Wire transfer",
+    "path": "md/section-iii-wire-transfers-2021.md"
+  },
+  {
+    "title": "Guide to Section III of risk based supervision data: Wire transfer",
+    "path": "md/section-iii-wire-transfers-2022.md"
+  },
+  {
+    "title": "Guide to Section III of risk based supervision data: Wire transfer",
+    "path": "md/section-iii-wire-transfers-2023.md"
+  },
+  {
+    "title": "1 Ships and other vessels",
+    "path": "md/ships-and-other-vessels-guidance.md"
+  },
+  {
+    "title": "Table of contents",
+    "path": "md/tokenisation-of-real-world-assets-guidance-note.md"
+  },
+  {
+    "title": "Travel Rule guidance note",
+    "path": "md/travel-rule-guidance-note.md"
+  }
+]
