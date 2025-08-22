@@ -151,4 +151,17 @@ function extractDefinitionsFromRendered(root) {
   let termIdx = headers.findIndex(h => /\b(term|item)\b/i.test(h));
   let defIdx  = headers.findIndex(h => /definition\/?guidance|definition|meaning|glossary|guidance/i.test(h));
   if (termIdx === -1 && headers.includes("Item")) termIdx = headers.indexOf("Item");
-  if (defIdx
+  if (defIdx === -1 && headers.includes("Meaning")) defIdx = headers.indexOf("Meaning");
+  if (termIdx === -1 || defIdx === -1) return defs;
+  rows.slice(1).forEach(r => {
+    const cells = [...r.querySelectorAll("th,td")];
+    const termCell = cells[termIdx];
+    const defCell  = cells[defIdx];
+    if (!termCell || !defCell) return;
+    const term = termCell.innerText.trim();
+    const def  = defCell.innerText.trim();
+    if (!term || !def || /^term$/i.test(term) || /^definition$/i.test(def)) return;
+    defs[term.toLowerCase()] = def;
+  });
+  return defs;
+}
