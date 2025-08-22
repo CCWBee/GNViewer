@@ -127,3 +127,21 @@ body {
   border: 1px solid #d0d7de;
   border-radius: 6px;
 }
+
+.def-term {
+  text-decoration: underline dotted;
+  cursor: help;
+}
+
+.definition-tooltip {
+  position: absolute;
+  background: var(--ink);
+  color: var(--bg);
+  padding: 0.25rem 0.5rem;
+  border-radius: 4px;
+  font-size: 0.85rem;
+  max-width: 300px;
+  z-index: 1000;
+  display: none;
+  pointer-events: none;
+}
