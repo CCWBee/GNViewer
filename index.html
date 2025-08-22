@@ -1,38 +1,38 @@
 <!doctype html>
 <html lang="en">
 <head>
-  <meta charset="utf-8">
-  <title>JFSC guidance viewer</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link href="style.css" rel="stylesheet">
-  <!-- markdown renderer + sanitiser -->
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>guidance viewer</title>
+  <link rel="stylesheet" href="style.css" />
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/dompurify@3.0.9/dist/purify.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/dompurify@3/dist/purify.min.js"></script>
 </head>
-<body>
-  <header>
-    <div class="brand">JFSC guidance viewer</div>
+<body data-theme="dark">
+  <header class="main-header">
+    <div class="brand">guidance viewer</div>
     <div class="controls">
-      <input id="filter" type="search" placeholder="Filter notes...">
-      <label class="chk">
-        <input id="toggleHighlight" type="checkbox" checked>
-        highlight definitions
+      <input id="filter" type="search" placeholder="filter notes…">
+      <label class="toggle">
+        <input type="checkbox" id="toggleHighlight" checked>
+        <span class="toggle-track"></span>
+        <span class="toggle-label">highlight</span>
       </label>
       <span id="defsCount" class="muted"></span>
     </div>
   </header>
 
-  <main>
-    <aside>
+  <main class="layout">
+    <aside class="sidebar">
       <ul id="fileList" class="files"></ul>
     </aside>
-    <section id="contentWrap">
-      <article id="content" aria-live="polite"></article>
+    <section class="content">
+      <article id="content" aria-live="polite">select a note from the list</article>
     </section>
   </main>
 
   <div id="tooltip" class="definition-tooltip" role="tooltip" style="display:none;"></div>
 
-  <script src="app.js"></script>
+  <script src="script.js"></script>
 </body>
 </html>
