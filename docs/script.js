@@ -2,6 +2,13 @@
 const listEl = document.getElementById("fileList");
 const filterEl = document.getElementById("filter");
 const contentEl = document.getElementById("content");
+const layoutEl = document.querySelector(".layout");
+const toggleEl = document.getElementById("sidebarToggle");
+
+toggleEl.addEventListener("click", () => {
+  const collapsed = layoutEl.classList.toggle("collapsed");
+  toggleEl.textContent = collapsed ? "❯" : "❮";
+});
 
 let manifest = [];
 let current = null;

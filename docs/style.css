@@ -61,6 +61,35 @@ body {
   display: grid;
   grid-template-columns: 280px 1fr;
   height: calc(100vh - 52px); /* header height */
+  position: relative;
+}
+
+.layout.collapsed {
+  grid-template-columns: 0 1fr;
+}
+
+.layout.collapsed .sidebar {
+  display: none;
+}
+
+.sidebar-toggle {
+  position: absolute;
+  top: 0.5rem;
+  left: 280px;
+  transform: translateX(-50%);
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-left: none;
+  border-radius: 0 4px 4px 0;
+  cursor: pointer;
+  padding: 0.2rem 0.4rem;
+}
+
+.layout.collapsed .sidebar-toggle {
+  left: 0;
+  transform: none;
+  border-left: 1px solid var(--line);
+  border-right: none;
 }
 
 .sidebar {
